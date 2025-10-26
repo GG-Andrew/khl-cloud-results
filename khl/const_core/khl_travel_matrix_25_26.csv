@@ -1,0 +1,463 @@
+﻿home_team_ru;home_slug;away_team_ru;away_slug;distance_km
+Авангард;avangard;Автомобилист;avtomobilist;821.9
+Авангард;avangard;Адмирал;admiral;4319.6
+Авангард;avangard;Ак Барс;ak_bars;1526.4
+Авангард;avangard;Амур;amur;4168.7
+Авангард;avangard;Барыс;barys;453.3
+Авангард;avangard;Динамо М;dynamo_msk;2237.9
+Авангард;avangard;Динамо Мн;dinamo_mn;2913.8
+Авангард;avangard;Лада;lada;1557.7
+Авангард;avangard;Локомотив;lokomotiv;2063.4
+Авангард;avangard;Металлург Мг;metallurg_mg;947.8
+Авангард;avangard;Нефтехимик;neftekhimik;1360.6
+Авангард;avangard;Северсталь;severstal;2164.1
+Авангард;avangard;Сибирь;sibir;609.7
+Авангард;avangard;СКА;ska;2579.1
+Авангард;avangard;ХК Сочи;hc_sochi;2712.5
+Авангард;avangard;Спартак;spartak;2244.3
+Авангард;avangard;Салават Юлаев;salavat_yulaev;1111.7
+Авангард;avangard;Торпедо;torpedo;1833.8
+Авангард;avangard;Трактор;traktor;758.8
+Авангард;avangard;ЦСКА;cska;2234.3
+Авангард;avangard;Драконы;kunlun;2579.1
+Автомобилист;avtomobilist;Авангард;avangard;821.9
+Автомобилист;avtomobilist;Адмирал;admiral;5062.5
+Автомобилист;avtomobilist;Ак Барс;ak_bars;714.8
+Автомобилист;avtomobilist;Амур;amur;4853.4
+Автомобилист;avtomobilist;Барыс;barys;951.5
+Автомобилист;avtomobilist;Динамо М;dynamo_msk;1417.4
+Автомобилист;avtomobilist;Динамо Мн;dinamo_mn;2093.3
+Автомобилист;avtomobilist;Лада;lada;797.1
+Автомобилист;avtomobilist;Локомотив;lokomotiv;1242.6
+Автомобилист;avtomobilist;Металлург Мг;metallurg_mg;391.6
+Автомобилист;avtomobilist;Нефтехимик;neftekhimik;557.3
+Автомобилист;avtomobilist;Северсталь;severstal;1352.3
+Автомобилист;avtomobilist;Сибирь;sibir;1400.7
+Автомобилист;avtomobilist;СКА;ska;1775.2
+Автомобилист;avtomobilist;ХК Сочи;hc_sochi;2079.7
+Автомобилист;avtomobilist;Спартак;spartak;1423.6
+Автомобилист;avtomobilist;Салават Юлаев;salavat_yulaev;370.9
+Автомобилист;avtomobilist;Торпедо;torpedo;1013.9
+Автомобилист;avtomobilist;Трактор;traktor;195.0
+Автомобилист;avtomobilist;ЦСКА;cska;1414.0
+Автомобилист;avtomobilist;Драконы;kunlun;1775.2
+Адмирал;admiral;Авангард;avangard;4319.6
+Адмирал;admiral;Автомобилист;avtomobilist;5062.5
+Адмирал;admiral;Ак Барс;ak_bars;5766.7
+Адмирал;admiral;Амур;amur;630.7
+Адмирал;admiral;Барыс;barys;4528.2
+Адмирал;admiral;Динамо М;dynamo_msk;6411.0
+Адмирал;admiral;Динамо Мн;dinamo_mn;7059.0
+Адмирал;admiral;Лада;lada;5852.9
+Адмирал;admiral;Локомотив;lokomotiv;6185.7
+Адмирал;admiral;Металлург Мг;metallurg_mg;5266.4
+Адмирал;admiral;Нефтехимик;neftekhimik;5618.2
+Адмирал;admiral;Северсталь;severstal;6208.2
+Адмирал;admiral;Сибирь;sibir;3711.0
+Адмирал;admiral;СКА;ska;6530.6
+Адмирал;admiral;ХК Сочи;hc_sochi;7018.9
+Адмирал;admiral;Спартак;spartak;6415.6
+Адмирал;admiral;Салават Юлаев;salavat_yulaev;5406.9
+Адмирал;admiral;Торпедо;torpedo;6031.4
+Адмирал;admiral;Трактор;traktor;5059.5
+Адмирал;admiral;ЦСКА;cska;6410.7
+Адмирал;admiral;Драконы;kunlun;6530.6
+Ак Барс;ak_bars;Авангард;avangard;1526.4
+Ак Барс;ak_bars;Автомобилист;avtomobilist;714.8
+Ак Барс;ak_bars;Адмирал;admiral;5766.7
+Ак Барс;ak_bars;Амур;amur;5536.6
+Ак Барс;ak_bars;Барыс;barys;1558.6
+Ак Барс;ak_bars;Динамо М;dynamo_msk;720.8
+Ак Барс;ak_bars;Динамо Мн;dinamo_mn;1392.8
+Ак Барс;ak_bars;Лада;lada;253.1
+Ак Барс;ak_bars;Локомотив;lokomotiv;596.6
+Ак Барс;ak_bars;Металлург Мг;metallurg_mg;690.3
+Ак Барс;ak_bars;Нефтехимик;neftekhimik;170.4
+Ак Барс;ak_bars;Северсталь;severstal;761.4
+Ак Барс;ak_bars;Сибирь;sibir;2114.9
+Ак Барс;ak_bars;СКА;ska;1188.2
+Ак Барс;ak_bars;ХК Сочи;hc_sochi;1527.4
+Ак Барс;ak_bars;Спартак;spartak;727.7
+Ак Барс;ak_bars;Салават Юлаев;salavat_yulaev;450.1
+Ак Барс;ak_bars;Торпедо;torpedo;321.4
+Ак Барс;ak_bars;Трактор;traktor;779.5
+Ак Барс;ak_bars;ЦСКА;cska;715.9
+Ак Барс;ak_bars;Драконы;kunlun;1188.2
+Амур;amur;Авангард;avangard;4168.7
+Амур;amur;Автомобилист;avtomobilist;4853.4
+Амур;amur;Адмирал;admiral;630.7
+Амур;amur;Ак Барс;ak_bars;5536.6
+Амур;amur;Барыс;barys;4436.5
+Амур;amur;Динамо М;dynamo_msk;6140.4
+Амур;amur;Динамо Мн;dinamo_mn;6765.2
+Амур;amur;Лада;lada;5650.6
+Амур;amur;Локомотив;lokomotiv;5904.7
+Амур;amur;Металлург Мг;metallurg_mg;5099.7
+Амур;amur;Нефтехимик;neftekhimik;5399.3
+Амур;amur;Северсталь;severstal;5905.5
+Амур;amur;Сибирь;sibir;3574.4
+Амур;amur;СКА;ska;6196.6
+Амур;amur;ХК Сочи;hc_sochi;6880.0
+Амур;amur;Спартак;spartak;6144.4
+Амур;amur;Салават Юлаев;salavat_yulaev;5212.8
+Амур;amur;Торпедо;torpedo;5778.5
+Амур;amur;Трактор;traktor;4876.5
+Амур;amur;ЦСКА;cska;6141.3
+Амур;amur;Драконы;kunlun;6196.6
+Барыс;barys;Авангард;avangard;453.3
+Барыс;barys;Автомобилист;avtomobilist;951.5
+Барыс;barys;Адмирал;admiral;4528.2
+Барыс;barys;Ак Барс;ak_bars;1558.6
+Барыс;barys;Амур;amur;4436.5
+Барыс;barys;Динамо М;dynamo_msk;2276.8
+Барыс;barys;Динамо Мн;dinamo_mn;2939.9
+Барыс;barys;Лада;lada;1514.7
+Барыс;barys;Локомотив;lokomotiv;2143.6
+Барыс;barys;Металлург Мг;metallurg_mg;880.7
+Барыс;barys;Нефтехимик;neftekhimik;1388.8
+Барыс;barys;Северсталь;severstal;2278.3
+Барыс;barys;Сибирь;sibir;885.6
+Барыс;barys;СКА;ska;2707.7
+Барыс;barys;ХК Сочи;hc_sochi;2499.9
+Барыс;barys;Спартак;spartak;2283.9
+Барыс;barys;Салават Юлаев;salavat_yulaev;1109.0
+Барыс;barys;Торпедо;torpedo;1879.9
+Барыс;barys;Трактор;traktor;802.1
+Барыс;barys;ЦСКА;cska;2271.1
+Барыс;barys;Драконы;kunlun;2707.7
+Динамо М;dynamo_msk;Авангард;avangard;2237.9
+Динамо М;dynamo_msk;Автомобилист;avtomobilist;1417.4
+Динамо М;dynamo_msk;Адмирал;admiral;6411.0
+Динамо М;dynamo_msk;Ак Барс;ak_bars;720.8
+Динамо М;dynamo_msk;Амур;amur;6140.4
+Динамо М;dynamo_msk;Барыс;barys;2276.8
+Динамо М;dynamo_msk;Динамо Мн;dinamo_mn;676.0
+Динамо М;dynamo_msk;Лада;lada;798.9
+Динамо М;dynamo_msk;Локомотив;lokomotiv;250.4
+Динамо М;dynamo_msk;Металлург Мг;metallurg_mg;1400.5
+Динамо М;dynamo_msk;Нефтехимик;neftekhimik;891.2
+Динамо М;dynamo_msk;Северсталь;severstal;371.8
+Динамо М;dynamo_msk;Сибирь;sibir;2813.8
+Динамо М;dynamo_msk;СКА;ska;617.5
+Динамо М;dynamo_msk;ХК Сочи;hc_sochi;1388.0
+Динамо М;dynamo_msk;Спартак;spartak;7.8
+Динамо М;dynamo_msk;Салават Юлаев;salavat_yulaev;1168.0
+Динамо М;dynamo_msk;Торпедо;torpedo;404.3
+Динамо М;dynamo_msk;Трактор;traktor;1499.3
+Динамо М;dynamo_msk;ЦСКА;cska;10.8
+Динамо М;dynamo_msk;Драконы;kunlun;617.5
+Динамо Мн;dinamo_mn;Авангард;avangard;2913.8
+Динамо Мн;dinamo_mn;Автомобилист;avtomobilist;2093.3
+Динамо Мн;dinamo_mn;Адмирал;admiral;7059.0
+Динамо Мн;dinamo_mn;Ак Барс;ak_bars;1392.8
+Динамо Мн;dinamo_mn;Амур;amur;6765.2
+Динамо Мн;dinamo_mn;Барыс;barys;2939.9
+Динамо Мн;dinamo_mn;Динамо М;dynamo_msk;676.0
+Динамо Мн;dinamo_mn;Лада;lada;1434.5
+Динамо Мн;dinamo_mn;Локомотив;lokomotiv;876.8
+Динамо Мн;dinamo_mn;Металлург Мг;metallurg_mg;2059.6
+Динамо Мн;dinamo_mn;Нефтехимик;neftekhimik;1562.5
+Динамо Мн;dinamo_mn;Северсталь;severstal;860.8
+Динамо Мн;dinamo_mn;Сибирь;sibir;3488.6
+Динамо Мн;dinamo_mn;СКА;ska;681.6
+Динамо Мн;dinamo_mn;ХК Сочи;hc_sochi;1481.1
+Динамо Мн;dinamo_mn;Спартак;spartak;669.7
+Динамо Мн;dinamo_mn;Салават Юлаев;salavat_yulaev;1834.9
+Динамо Мн;dinamo_mn;Торпедо;torpedo;1080.0
+Динамо Мн;dinamo_mn;Трактор;traktor;2172.3
+Динамо Мн;dinamo_mn;ЦСКА;cska;679.6
+Динамо Мн;dinamo_mn;Драконы;kunlun;681.6
+Лада;lada;Авангард;avangard;1557.7
+Лада;lada;Автомобилист;avtomobilist;797.1
+Лада;lada;Адмирал;admiral;5852.9
+Лада;lada;Ак Барс;ak_bars;253.1
+Лада;lada;Амур;amur;5650.6
+Лада;lada;Барыс;barys;1514.7
+Лада;lada;Динамо М;dynamo_msk;798.9
+Лада;lada;Динамо Мн;dinamo_mn;1434.5
+Лада;lada;Локомотив;lokomotiv;748.6
+Лада;lada;Металлург Мг;metallurg_mg;636.7
+Лада;lada;Нефтехимик;neftekhimik;279.5
+Лада;lada;Северсталь;severstal;937.4
+Лада;lada;Сибирь;sibir;2162.7
+Лада;lada;СКА;ska;1345.7
+Лада;lada;ХК Сочи;hc_sochi;1322.9
+Лада;lada;Спартак;spartak;806.5
+Лада;lada;Салават Юлаев;salavat_yulaev;447.7
+Лада;lada;Торпедо;torpedo;460.9
+Лада;lada;Трактор;traktor;800.0
+Лада;lada;ЦСКА;cska;791.1
+Лада;lada;Драконы;kunlun;1345.7
+Локомотив;lokomotiv;Авангард;avangard;2063.4
+Локомотив;lokomotiv;Автомобилист;avtomobilist;1242.6
+Локомотив;lokomotiv;Адмирал;admiral;6185.7
+Локомотив;lokomotiv;Ак Барс;ak_bars;596.6
+Локомотив;lokomotiv;Амур;amur;5904.7
+Локомотив;lokomotiv;Барыс;barys;2143.6
+Локомотив;lokomotiv;Динамо М;dynamo_msk;250.4
+Локомотив;lokomotiv;Динамо Мн;dinamo_mn;876.8
+Локомотив;lokomotiv;Лада;lada;748.6
+Локомотив;lokomotiv;Металлург Мг;metallurg_mg;1285.7
+Локомотив;lokomotiv;Нефтехимик;neftekhimik;760.6
+Локомотив;lokomotiv;Северсталь;severstal;201.2
+Локомотив;lokomotiv;Сибирь;sibir;2623.2
+Локомотив;lokomotiv;СКА;ska;598.5
+Локомотив;lokomotiv;ХК Сочи;hc_sochi;1583.3
+Локомотив;lokomotiv;Спартак;spartak;252.0
+Локомотив;lokomotiv;Салават Юлаев;salavat_yulaev;1042.0
+Локомотив;lokomotiv;Торпедо;torpedo;289.1
+Локомотив;lokomotiv;Трактор;traktor;1348.3
+Локомотив;lokomotiv;ЦСКА;cska;254.9
+Локомотив;lokomotiv;Драконы;kunlun;598.5
+Металлург Мг;metallurg_mg;Авангард;avangard;947.8
+Металлург Мг;metallurg_mg;Автомобилист;avtomobilist;391.6
+Металлург Мг;metallurg_mg;Адмирал;admiral;5266.4
+Металлург Мг;metallurg_mg;Ак Барс;ak_bars;690.3
+Металлург Мг;metallurg_mg;Амур;amur;5099.7
+Металлург Мг;metallurg_mg;Барыс;barys;880.7
+Металлург Мг;metallurg_mg;Динамо М;dynamo_msk;1400.5
+Металлург Мг;metallurg_mg;Динамо Мн;dinamo_mn;2059.6
+Металлург Мг;metallurg_mg;Лада;lada;636.7
+Металлург Мг;metallurg_mg;Локомотив;lokomotiv;1285.7
+Металлург Мг;metallurg_mg;Нефтехимик;neftekhimik;525.5
+Металлург Мг;metallurg_mg;Северсталь;severstal;1439.5
+Металлург Мг;metallurg_mg;Сибирь;sibir;1557.5
+Металлург Мг;metallurg_mg;СКА;ska;1870.2
+Металлург Мг;metallurg_mg;ХК Сочи;hc_sochi;1785.0
+Металлург Мг;metallurg_mg;Спартак;spartak;1407.7
+Металлург Мг;metallurg_mg;Салават Юлаев;salavat_yulaev;246.9
+Металлург Мг;metallurg_mg;Торпедо;torpedo;1010.3
+Металлург Мг;metallurg_mg;Трактор;traktor;247.8
+Металлург Мг;metallurg_mg;ЦСКА;cska;1394.4
+Металлург Мг;metallurg_mg;Драконы;kunlun;1870.2
+Нефтехимик;neftekhimik;Авангард;avangard;1360.6
+Нефтехимик;neftekhimik;Автомобилист;avtomobilist;557.3
+Нефтехимик;neftekhimik;Адмирал;admiral;5618.2
+Нефтехимик;neftekhimik;Ак Барс;ak_bars;170.4
+Нефтехимик;neftekhimik;Амур;amur;5399.3
+Нефтехимик;neftekhimik;Барыс;barys;1388.8
+Нефтехимик;neftekhimik;Динамо М;dynamo_msk;891.2
+Нефтехимик;neftekhimik;Динамо Мн;dinamo_mn;1562.5
+Нефтехимик;neftekhimik;Лада;lada;279.5
+Нефтехимик;neftekhimik;Локомотив;lokomotiv;760.6
+Нефтехимик;neftekhimik;Металлург Мг;metallurg_mg;525.5
+Нефтехимик;neftekhimik;Северсталь;severstal;915.8
+Нефтехимик;neftekhimik;Сибирь;sibir;1953.2
+Нефтехимик;neftekhimik;СКА;ska;1345.7
+Нефтехимик;neftekhimik;ХК Сочи;hc_sochi;1602.2
+Нефтехимик;neftekhimik;Спартак;spartak;898.1
+Нефтехимик;neftekhimik;Салават Юлаев;salavat_yulaev;281.7
+Нефтехимик;neftekhimik;Торпедо;torpedo;491.1
+Нефтехимик;neftekhimik;Трактор;traktor;610.1
+Нефтехимик;neftekhimik;ЦСКА;cska;886.2
+Нефтехимик;neftekhimik;Драконы;kunlun;1345.7
+Северсталь;severstal;Авангард;avangard;2164.1
+Северсталь;severstal;Автомобилист;avtomobilist;1352.3
+Северсталь;severstal;Адмирал;admiral;6208.2
+Северсталь;severstal;Ак Барс;ak_bars;761.4
+Северсталь;severstal;Амур;amur;5905.5
+Северсталь;severstal;Барыс;barys;2278.3
+Северсталь;severstal;Динамо М;dynamo_msk;371.8
+Северсталь;severstal;Динамо Мн;dinamo_mn;860.8
+Северсталь;severstal;Лада;lada;937.4
+Северсталь;severstal;Локомотив;lokomotiv;201.2
+Северсталь;severstal;Металлург Мг;metallurg_mg;1439.5
+Северсталь;severstal;Нефтехимик;neftekhimik;915.8
+Северсталь;severstal;Сибирь;sibir;2703.6
+Северсталь;severstal;СКА;ska;431.1
+Северсталь;severstal;ХК Сочи;hc_sochi;1754.1
+Северсталь;severstal;Спартак;spartak;369.3
+Северсталь;severstal;Салават Юлаев;salavat_yulaev;1193.0
+Северсталь;severstal;Торпедо;torpedo;477.0
+Северсталь;severstal;Трактор;traktor;1477.0
+Северсталь;severstal;ЦСКА;cska;380.6
+Северсталь;severstal;Драконы;kunlun;431.1
+Сибирь;sibir;Авангард;avangard;609.7
+Сибирь;sibir;Автомобилист;avtomobilist;1400.7
+Сибирь;sibir;Адмирал;admiral;3711.0
+Сибирь;sibir;Ак Барс;ak_bars;2114.9
+Сибирь;sibir;Амур;amur;3574.4
+Сибирь;sibir;Барыс;barys;885.6
+Сибирь;sibir;Динамо М;dynamo_msk;2813.8
+Сибирь;sibir;Динамо Мн;dinamo_mn;3488.6
+Сибирь;sibir;Лада;lada;2162.7
+Сибирь;sibir;Локомотив;lokomotiv;2623.2
+Сибирь;sibir;Металлург Мг;metallurg_mg;1557.5
+Сибирь;sibir;Нефтехимик;neftekhimik;1953.2
+Сибирь;sibir;Северсталь;severstal;2703.6
+Сибирь;sibir;СКА;ska;3101.9
+Сибирь;sibir;ХК Сочи;hc_sochi;3314.6
+Сибирь;sibir;Спартак;spartak;2819.8
+Сибирь;sibir;Салават Юлаев;salavat_yulaev;1715.2
+Сибирь;sibir;Торпедо;torpedo;2412.4
+Сибирь;sibir;Трактор;traktor;1362.7
+Сибирь;sibir;ЦСКА;cska;2811.0
+Сибирь;sibir;Драконы;kunlun;3101.9
+СКА;ska;Авангард;avangard;2579.1
+СКА;ska;Автомобилист;avtomobilist;1775.2
+СКА;ska;Адмирал;admiral;6530.6
+СКА;ska;Ак Барс;ak_bars;1188.2
+СКА;ska;Амур;amur;6196.6
+СКА;ska;Барыс;barys;2707.7
+СКА;ska;Динамо М;dynamo_msk;617.5
+СКА;ska;Динамо Мн;dinamo_mn;681.6
+СКА;ska;Лада;lada;1345.7
+СКА;ska;Локомотив;lokomotiv;598.5
+СКА;ska;Металлург Мг;metallurg_mg;1870.2
+СКА;ska;Нефтехимик;neftekhimik;1345.7
+СКА;ska;Северсталь;severstal;431.1
+СКА;ska;Сибирь;sibir;3101.9
+СКА;ska;ХК Сочи;hc_sochi;1938.7
+СКА;ska;Спартак;spartak;610.6
+СКА;ska;Салават Юлаев;salavat_yulaev;1623.9
+СКА;ska;Торпедо;torpedo;887.6
+СКА;ska;Трактор;traktor;1905.8
+СКА;ska;ЦСКА;cska;628.3
+СКА;ska;Драконы;kunlun;0.0
+ХК Сочи;hc_sochi;Авангард;avangard;2712.5
+ХК Сочи;hc_sochi;Автомобилист;avtomobilist;2079.7
+ХК Сочи;hc_sochi;Адмирал;admiral;7018.9
+ХК Сочи;hc_sochi;Ак Барс;ak_bars;1527.4
+ХК Сочи;hc_sochi;Амур;amur;6880.0
+ХК Сочи;hc_sochi;Барыс;barys;2499.9
+ХК Сочи;hc_sochi;Динамо М;dynamo_msk;1388.0
+ХК Сочи;hc_sochi;Динамо Мн;dinamo_mn;1481.1
+ХК Сочи;hc_sochi;Лада;lada;1322.9
+ХК Сочи;hc_sochi;Локомотив;lokomotiv;1583.3
+ХК Сочи;hc_sochi;Металлург Мг;metallurg_mg;1785.0
+ХК Сочи;hc_sochi;Нефтехимик;neftekhimik;1602.2
+ХК Сочи;hc_sochi;Северсталь;severstal;1754.1
+ХК Сочи;hc_sochi;Сибирь;sibir;3314.6
+ХК Сочи;hc_sochi;СКА;ska;1938.7
+ХК Сочи;hc_sochi;Спартак;spartak;1392.0
+ХК Сочи;hc_sochi;Салават Юлаев;salavat_yulaev;1708.7
+ХК Сочи;hc_sochi;Торпедо;torpedo;1464.5
+ХК Сочи;hc_sochi;Трактор;traktor;2018.7
+ХК Сочи;hc_sochi;ЦСКА;cska;1378.2
+ХК Сочи;hc_sochi;Драконы;kunlun;1938.7
+Спартак;spartak;Авангард;avangard;2244.3
+Спартак;spartak;Автомобилист;avtomobilist;1423.6
+Спартак;spartak;Адмирал;admiral;6415.6
+Спартак;spartak;Ак Барс;ak_bars;727.7
+Спартак;spartak;Амур;amur;6144.4
+Спартак;spartak;Барыс;barys;2283.9
+Спартак;spartak;Динамо М;dynamo_msk;7.8
+Спартак;spartak;Динамо Мн;dinamo_mn;669.7
+Спартак;spartak;Лада;lada;806.5
+Спартак;spartak;Локомотив;lokomotiv;252.0
+Спартак;spartak;Металлург Мг;metallurg_mg;1407.7
+Спартак;spartak;Нефтехимик;neftekhimik;898.1
+Спартак;spartak;Северсталь;severstal;369.3
+Спартак;spartak;Сибирь;sibir;2819.8
+Спартак;spartak;СКА;ska;610.6
+Спартак;spartak;ХК Сочи;hc_sochi;1392.0
+Спартак;spartak;Салават Юлаев;salavat_yulaev;1175.1
+Спартак;spartak;Торпедо;torpedo;410.8
+Спартак;spartak;Трактор;traktor;1506.1
+Спартак;spartak;ЦСКА;cska;17.8
+Спартак;spartak;Драконы;kunlun;610.6
+Салават Юлаев;salavat_yulaev;Авангард;avangard;1111.7
+Салават Юлаев;salavat_yulaev;Автомобилист;avtomobilist;370.9
+Салават Юлаев;salavat_yulaev;Адмирал;admiral;5406.9
+Салават Юлаев;salavat_yulaev;Ак Барс;ak_bars;450.1
+Салават Юлаев;salavat_yulaev;Амур;amur;5212.8
+Салават Юлаев;salavat_yulaev;Барыс;barys;1109.0
+Салават Юлаев;salavat_yulaev;Динамо М;dynamo_msk;1168.0
+Салават Юлаев;salavat_yulaev;Динамо Мн;dinamo_mn;1834.9
+Салават Юлаев;salavat_yulaev;Лада;lada;447.7
+Салават Юлаев;salavat_yulaev;Локомотив;lokomotiv;1042.0
+Салават Юлаев;salavat_yulaev;Металлург Мг;metallurg_mg;246.9
+Салават Юлаев;salavat_yulaev;Нефтехимик;neftekhimik;281.7
+Салават Юлаев;salavat_yulaev;Северсталь;severstal;1193.0
+Салават Юлаев;salavat_yulaev;Сибирь;sibir;1715.2
+Салават Юлаев;salavat_yulaev;СКА;ska;1623.9
+Салават Юлаев;salavat_yulaev;ХК Сочи;hc_sochi;1708.7
+Салават Юлаев;salavat_yulaev;Спартак;spartak;1175.1
+Салават Юлаев;salavat_yulaev;Торпедо;torpedo;771.5
+Салават Юлаев;salavat_yulaev;Трактор;traktor;353.0
+Салават Юлаев;salavat_yulaev;ЦСКА;cska;1162.6
+Салават Юлаев;salavat_yulaev;Драконы;kunlun;1623.9
+Торпедо;torpedo;Авангард;avangard;1833.8
+Торпедо;torpedo;Автомобилист;avtomobilist;1013.9
+Торпедо;torpedo;Адмирал;admiral;6031.4
+Торпедо;torpedo;Ак Барс;ak_bars;321.4
+Торпедо;torpedo;Амур;amur;5778.5
+Торпедо;torpedo;Барыс;barys;1879.9
+Торпедо;torpedo;Динамо М;dynamo_msk;404.3
+Торпедо;torpedo;Динамо Мн;dinamo_mn;1080.0
+Торпедо;torpedo;Лада;lada;460.9
+Торпедо;torpedo;Локомотив;lokomotiv;289.1
+Торпедо;torpedo;Металлург Мг;metallurg_mg;1010.3
+Торпедо;torpedo;Нефтехимик;neftekhimik;491.1
+Торпедо;torpedo;Северсталь;severstal;477.0
+Торпедо;torpedo;Сибирь;sibir;2412.4
+Торпедо;torpedo;СКА;ska;887.6
+Торпедо;torpedo;ХК Сочи;hc_sochi;1464.5
+Торпедо;torpedo;Спартак;spartak;410.8
+Торпедо;torpedo;Салават Юлаев;salavat_yulaev;771.5
+Торпедо;torpedo;Трактор;traktor;1096.2
+Торпедо;torpedo;ЦСКА;cska;400.5
+Торпедо;torpedo;Драконы;kunlun;887.6
+Трактор;traktor;Авангард;avangard;758.8
+Трактор;traktor;Автомобилист;avtomobilist;195.0
+Трактор;traktor;Адмирал;admiral;5059.5
+Трактор;traktor;Ак Барс;ak_bars;779.5
+Трактор;traktor;Амур;amur;4876.5
+Трактор;traktor;Барыс;barys;802.1
+Трактор;traktor;Динамо М;dynamo_msk;1499.3
+Трактор;traktor;Динамо Мн;dinamo_mn;2172.3
+Трактор;traktor;Лада;lada;800.0
+Трактор;traktor;Локомотив;lokomotiv;1348.3
+Трактор;traktor;Металлург Мг;metallurg_mg;247.8
+Трактор;traktor;Нефтехимик;neftekhimik;610.1
+Трактор;traktor;Северсталь;severstal;1477.0
+Трактор;traktor;Сибирь;sibir;1362.7
+Трактор;traktor;СКА;ska;1905.8
+Трактор;traktor;ХК Сочи;hc_sochi;2018.7
+Трактор;traktor;Спартак;spartak;1506.1
+Трактор;traktor;Салават Юлаев;salavat_yulaev;353.0
+Трактор;traktor;Торпедо;torpedo;1096.2
+Трактор;traktor;ЦСКА;cska;1494.7
+Трактор;traktor;Драконы;kunlun;1905.8
+ЦСКА;cska;Авангард;avangard;2234.3
+ЦСКА;cska;Автомобилист;avtomobilist;1414.0
+ЦСКА;cska;Адмирал;admiral;6410.7
+ЦСКА;cska;Ак Барс;ak_bars;715.9
+ЦСКА;cska;Амур;amur;6141.3
+ЦСКА;cska;Барыс;barys;2271.1
+ЦСКА;cska;Динамо М;dynamo_msk;10.8
+ЦСКА;cska;Динамо Мн;dinamo_mn;679.6
+ЦСКА;cska;Лада;lada;791.1
+ЦСКА;cska;Локомотив;lokomotiv;254.9
+ЦСКА;cska;Металлург Мг;metallurg_mg;1394.4
+ЦСКА;cska;Нефтехимик;neftekhimik;886.2
+ЦСКА;cska;Северсталь;severstal;380.6
+ЦСКА;cska;Сибирь;sibir;2811.0
+ЦСКА;cska;СКА;ska;628.3
+ЦСКА;cska;ХК Сочи;hc_sochi;1378.2
+ЦСКА;cska;Спартак;spartak;17.8
+ЦСКА;cska;Салават Юлаев;salavat_yulaev;1162.6
+ЦСКА;cska;Торпедо;torpedo;400.5
+ЦСКА;cska;Трактор;traktor;1494.7
+ЦСКА;cska;Драконы;kunlun;628.3
+Драконы;kunlun;Авангард;avangard;2579.1
+Драконы;kunlun;Автомобилист;avtomobilist;1775.2
+Драконы;kunlun;Адмирал;admiral;6530.6
+Драконы;kunlun;Ак Барс;ak_bars;1188.2
+Драконы;kunlun;Амур;amur;6196.6
+Драконы;kunlun;Барыс;barys;2707.7
+Драконы;kunlun;Динамо М;dynamo_msk;617.5
+Драконы;kunlun;Динамо Мн;dinamo_mn;681.6
+Драконы;kunlun;Лада;lada;1345.7
+Драконы;kunlun;Локомотив;lokomotiv;598.5
+Драконы;kunlun;Металлург Мг;metallurg_mg;1870.2
+Драконы;kunlun;Нефтехимик;neftekhimik;1345.7
+Драконы;kunlun;Северсталь;severstal;431.1
+Драконы;kunlun;Сибирь;sibir;3101.9
+Драконы;kunlun;СКА;ska;0.0
+Драконы;kunlun;ХК Сочи;hc_sochi;1938.7
+Драконы;kunlun;Спартак;spartak;610.6
+Драконы;kunlun;Салават Юлаев;salavat_yulaev;1623.9
+Драконы;kunlun;Торпедо;torpedo;887.6
+Драконы;kunlun;Трактор;traktor;1905.8
+Драконы;kunlun;ЦСКА;cska;628.3
