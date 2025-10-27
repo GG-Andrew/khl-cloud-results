@@ -1,0 +1,9 @@
+# бинарники не трогаем по EOL
+*.xlsx -text
+*.xls  -text
+*.pdf  -text
+
+# текстовые — нормализуем в LF
+*.csv  text eol=lf
+*.json text eol=lf
+*.txt  text eol=lf
