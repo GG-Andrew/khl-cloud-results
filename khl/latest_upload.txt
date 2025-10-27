@@ -1,5 +1,5 @@
-﻿Last upload (local): 2025-10-28 01:25:40
-Last upload (UTC)  : 2025-10-27 17:25:40 UTC
+﻿Last upload (local): 2025-10-28 01:40:06
+Last upload (UTC)  : 2025-10-27 17:40:06 UTC
 Files:
  - uids_khl_season.csv
  - khl_stats_1369.xlsx
