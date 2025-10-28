@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-10-28T07:04:29Z",
+  "generated_at_utc": "2025-10-28T13:07:53Z",
   "version": 1,
   "days": [
     {
@@ -18,8 +18,8 @@
             },
             "1x2_60": {
               "P1": 2.3,
-              "X": 4.3,
-              "P2": 2.6
+              "X": 4.2,
+              "P2": 2.64
             },
             "double_chance_60": {
               "1X": 1.5,
@@ -53,7 +53,7 @@
               },
               {
                 "line": 6,
-                "over": 2.6,
+                "over": 2.65,
                 "under": 1.45
               },
               {
@@ -74,19 +74,19 @@
             ],
             "sog_match": [
               {
-                "line": 59.5,
-                "over": 1.72,
-                "under": 2
-              },
-              {
                 "line": 60.5,
-                "over": 1.85,
-                "under": 1.85
+                "over": 1.75,
+                "under": 1.95
               },
               {
                 "line": 61.5,
-                "over": 2,
-                "under": 1.72
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 62.5,
+                "over": 2.1,
+                "under": 1.65
               }
             ],
             "sog_1x2": {
@@ -119,7 +119,7 @@
                 {
                   "line": 1.5,
                   "over": 1.67,
-                  "under": 2.07
+                  "under": 2.08
                 },
                 {
                   "line": 2.5,
@@ -158,8 +158,8 @@
               },
               {
                 "handicap": 0,
-                "home": 1.77,
-                "away": 1.97
+                "home": 1.75,
+                "away": 2
               }
             ]
           }
@@ -170,12 +170,11 @@
           "start_utc": "2025-10-28T14:00:00Z",
           "markets": {
             "1x2_60": {
-              "P1": 1.23,
-              "P2": 5
+              "P1": 1.22
             },
             "double_chance_60": {
               "1X": 1.13,
-              "X2": 3.7
+              "X2": 3.8
             },
             "period_totals": {
               "1": [
@@ -214,18 +213,18 @@
             "spreads": [
               {
                 "handicap": -6.5,
-                "home": 2.2,
-                "away": 1.6
+                "home": 2.13,
+                "away": 1.63
               },
               {
                 "handicap": -7.5,
-                "home": 2.52,
-                "away": 1.46
+                "home": 2.45,
+                "away": 1.48
               },
               {
                 "handicap": -8.5,
-                "home": 2.9,
-                "away": 1.35
+                "home": 2.85,
+                "away": 1.37
               }
             ]
           }
@@ -242,17 +241,17 @@
           "start_utc": "2025-10-28T16:00:00Z",
           "markets": {
             "ml": {
-              "HOME": 1.45,
-              "AWAY": 2.8
+              "HOME": 1.4,
+              "AWAY": 2.9
             },
             "1x2_60": {
-              "P1": 1.75,
+              "P1": 1.7,
               "X": 4.4,
-              "P2": 3.95
+              "P2": 4.15
             },
             "double_chance_60": {
-              "1X": 1.25,
-              "X2": 2.1
+              "1X": 1.23,
+              "X2": 2.15
             },
             "totals_goals": [
               {
@@ -298,28 +297,28 @@
             ],
             "sog_match": [
               {
-                "line": 58.5,
-                "over": 1.72,
-                "under": 2
-              },
-              {
-                "line": 59.5,
-                "over": 1.85,
-                "under": 1.85
-              },
-              {
                 "line": 60.5,
-                "over": 2,
-                "under": 1.72
+                "over": 1.75,
+                "under": 1.95
+              },
+              {
+                "line": 61.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 62.5,
+                "over": 2.1,
+                "under": 1.65
               }
             ],
             "sog_1x2": {
-              "P1": 1.2,
-              "P2": 4.3
+              "P1": 1.15,
+              "P2": 4.9
             },
             "sog_double_chance": {
-              "1X": 1.18,
-              "X2": 4.05
+              "1X": 1.14,
+              "X2": 4.7
             },
             "period_totals": {
               "1": [
@@ -371,24 +370,19 @@
             },
             "spreads": [
               {
-                "handicap": -1.5,
-                "home": 2.25,
-                "away": 1.62
-              },
-              {
-                "handicap": -2,
-                "home": 2.95,
-                "away": 1.38
-              },
-              {
                 "handicap": -2.5,
-                "home": 3.4,
-                "away": 1.3
+                "home": 3.05,
+                "away": 1.35
+              },
+              {
+                "handicap": -3,
+                "home": 5,
+                "away": 1.15
               },
               {
                 "handicap": 0,
-                "home": 1.37,
-                "away": 2.95
+                "home": 1.35,
+                "away": 3.15
               }
             ]
           }
@@ -454,6 +448,23 @@
                 "line": 7.5,
                 "over": 3.9,
                 "under": 1.23
+              }
+            ],
+            "sog_match": [
+              {
+                "line": 62.5,
+                "over": 1.73,
+                "under": 1.99
+              },
+              {
+                "line": 63.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 64.5,
+                "over": 1.99,
+                "under": 1.73
               }
             ],
             "period_totals": {
@@ -524,17 +535,17 @@
           "start_utc": "2025-10-28T16:30:00Z",
           "markets": {
             "ml": {
-              "HOME": 1.95,
-              "AWAY": 1.85
+              "HOME": 2,
+              "AWAY": 1.8
             },
             "1x2_60": {
-              "P1": 2.65,
+              "P1": 2.7,
               "X": 4,
-              "P2": 2.45
+              "P2": 2.4
             },
             "double_chance_60": {
-              "1X": 1.55,
-              "X2": 1.48
+              "1X": 1.57,
+              "X2": 1.47
             },
             "totals_goals": [
               {
@@ -545,44 +556,69 @@
               {
                 "line": 4,
                 "over": 1.23,
-                "under": 3.9
+                "under": 3.95
               },
               {
                 "line": 4.5,
                 "over": 1.45,
-                "under": 2.6
+                "under": 2.65
               },
               {
                 "line": 5,
-                "over": 1.62,
+                "over": 1.6,
                 "under": 2.25
               },
               {
                 "line": 5.5,
-                "over": 1.92,
-                "under": 1.88
+                "over": 1.9,
+                "under": 1.9
               },
               {
                 "line": 6,
-                "over": 2.35,
-                "under": 1.55
+                "over": 2.3,
+                "under": 1.57
               },
               {
                 "line": 6.5,
-                "over": 2.8,
-                "under": 1.4
+                "over": 2.75,
+                "under": 1.42
               },
               {
                 "line": 7,
-                "over": 3.75,
+                "over": 3.65,
                 "under": 1.25
               },
               {
                 "line": 7.5,
-                "over": 4.15,
-                "under": 1.2
+                "over": 4.1,
+                "under": 1.22
               }
             ],
+            "sog_match": [
+              {
+                "line": 58.5,
+                "over": 1.75,
+                "under": 1.95
+              },
+              {
+                "line": 59.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 60.5,
+                "over": 2.1,
+                "under": 1.65
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.2,
+              "P2": 4.3
+            },
+            "sog_double_chance": {
+              "1X": 1.18,
+              "X2": 4.05
+            },
             "period_totals": {
               "1": [
                 {
@@ -592,8 +628,8 @@
                 },
                 {
                   "line": 1.5,
-                  "over": 1.85,
-                  "under": 1.85
+                  "over": 1.83,
+                  "under": 1.87
                 },
                 {
                   "line": 2.5,
@@ -609,8 +645,8 @@
                 },
                 {
                   "line": 2.5,
-                  "over": 2.85,
-                  "under": 1.37
+                  "over": 2.8,
+                  "under": 1.38
                 }
               ],
               "3": [
@@ -629,18 +665,18 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3.35,
+                "home": 3.45,
                 "away": 1.3
               },
               {
                 "handicap": -2,
                 "home": 4.6,
-                "away": 1.18
+                "away": 1.17
               },
               {
                 "handicap": 0,
-                "home": 1.95,
-                "away": 1.8
+                "home": 1.98,
+                "away": 1.78
               }
             ]
           }
@@ -651,17 +687,17 @@
           "start_utc": "2025-10-28T16:30:00Z",
           "markets": {
             "ml": {
-              "HOME": 2.02,
-              "AWAY": 1.78
+              "HOME": 2.05,
+              "AWAY": 1.77
             },
             "1x2_60": {
-              "P1": 2.65,
-              "X": 4.25,
-              "P2": 2.28
+              "P1": 2.7,
+              "X": 4.2,
+              "P2": 2.25
             },
             "double_chance_60": {
-              "1X": 1.63,
-              "X2": 1.48
+              "1X": 1.65,
+              "X2": 1.47
             },
             "totals_goals": [
               {
@@ -672,17 +708,17 @@
               {
                 "line": 4,
                 "over": 1.27,
-                "under": 3.6
+                "under": 3.55
               },
               {
                 "line": 4.5,
-                "over": 1.5,
-                "under": 2.5
+                "over": 1.52,
+                "under": 2.45
               },
               {
                 "line": 5,
                 "over": 1.7,
-                "under": 2.1
+                "under": 2.08
               },
               {
                 "line": 5.5,
@@ -691,25 +727,50 @@
               },
               {
                 "line": 6,
-                "over": 2.5,
-                "under": 1.5
+                "over": 2.55,
+                "under": 1.48
               },
               {
                 "line": 6.5,
-                "over": 2.95,
-                "under": 1.37
+                "over": 3,
+                "under": 1.35
               },
               {
                 "line": 7,
-                "over": 4.05,
-                "under": 1.22
+                "over": 4.15,
+                "under": 1.2
               },
               {
                 "line": 7.5,
-                "over": 4.5,
+                "over": 4.6,
                 "under": 1.18
               }
             ],
+            "sog_match": [
+              {
+                "line": 59.5,
+                "over": 1.72,
+                "under": 2
+              },
+              {
+                "line": 60.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 61.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 3.65,
+              "P2": 1.25
+            },
+            "sog_double_chance": {
+              "1X": 3.55,
+              "X2": 1.25
+            },
             "period_totals": {
               "1": [
                 {
@@ -724,7 +785,7 @@
                 },
                 {
                   "line": 2.5,
-                  "over": 3.7,
+                  "over": 3.75,
                   "under": 1.23
                 }
               ],
@@ -736,14 +797,14 @@
                 },
                 {
                   "line": 2.5,
-                  "over": 2.95,
+                  "over": 3,
                   "under": 1.35
                 }
               ],
               "3": [
                 {
                   "line": 1.5,
-                  "over": 1.62,
+                  "over": 1.63,
                   "under": 2.15
                 },
                 {
@@ -756,18 +817,18 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3.4,
-                "away": 1.3
+                "home": 3.45,
+                "away": 1.28
               },
               {
                 "handicap": -2,
-                "home": 4.8,
+                "home": 4.9,
                 "away": 1.16
               },
               {
                 "handicap": 0,
-                "home": 2.02,
-                "away": 1.75
+                "home": 2.05,
+                "away": 1.72
               }
             ]
           }
@@ -834,6 +895,29 @@
                 "under": 1.19
               }
             ],
+            "sog_match": [
+              {
+                "line": 56.5,
+                "over": 1.72,
+                "under": 2
+              },
+              {
+                "line": 57.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 58.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.1
+            },
+            "sog_double_chance": {
+              "1X": 1.09
+            },
             "period_totals": {
               "1": [
                 {
