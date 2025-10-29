@@ -1,10 +1,1 @@
-﻿Last upload (local): 2025-10-29 21:15:25
-Last upload (UTC)  : 2025-10-29 13:15:25 UTC
-Files:
- - uids_khl_season.csv
- - khl_stats_1369.xlsx
- - khl_stats_1369_ext.xlsx
- - khl_players_stats_1369.xlsx
- - Injuries_Master_Clubs.xlsx
- - khl_referees_stats_1369.xlsx
- - fon_khl_odds.json
+﻿2025-10-30 02:09:48 +08:00
