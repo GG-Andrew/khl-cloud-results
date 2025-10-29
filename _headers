@@ -1,13 +1,14 @@
-/khl/*.json
+/khl/*.b64
   Content-Type: text/plain; charset=utf-8
   Access-Control-Allow-Origin: *
   Cache-Control: no-transform, public, max-age=60
 
-/khl/*.xlsx
-  Content-Type: application/octet-stream
+/khl/*.csv
+  Content-Type: text/csv; charset=utf-8
   Access-Control-Allow-Origin: *
   Cache-Control: public, max-age=60
 
-/khl/*
+/khl/*.txt
+  Content-Type: text/plain; charset=utf-8
   Access-Control-Allow-Origin: *
-  Cache-Control: public, max-age=300, must-revalidate
+  Cache-Control: no-transform, public, max-age=60
