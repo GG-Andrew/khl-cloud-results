@@ -1,3 +1,13 @@
+/khl/*.json
+  Content-Type: application/json; charset=utf-8
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60
+
+/khl/*.xlsx
+  Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=60
+
 /khl/*
   Access-Control-Allow-Origin: *
   Cache-Control: public, max-age=300, must-revalidate
