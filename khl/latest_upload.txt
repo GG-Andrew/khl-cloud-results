@@ -1,4 +1,4 @@
-﻿✅ Выгрузка завершена: 2025-10-30 12:20:14
+﻿✅ Выгрузка завершена: 2025-10-30 12:27:33
 
 Файлы:
 • uids_khl_season.csv
@@ -23,4 +23,4 @@ https://khl-cloud-results.pages.dev/khl/khl_referees_stats_1369.xlsx
 https://khl-cloud-results.pages.dev/khl/fon_khl_odds.json
 
 ZIP:
-https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_30-10-2025-12-20.zip
+https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_30-10-2025-12-27.zip
