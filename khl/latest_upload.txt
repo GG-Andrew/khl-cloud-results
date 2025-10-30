@@ -1,13 +1,26 @@
-﻿✅ Выгрузка завершена: 2025-10-30 11:39:31
+﻿✅ Выгрузка завершена: 2025-10-30 11:57:05
 
 Файлы:
- - uids_khl_season.csv → https://khl-cloud-results.pages.dev/khl/=45744
- - khl_stats_1369.xlsx → https://khl-cloud-results.pages.dev/khl/=45744
- - khl_stats_1369_ext.xlsx → https://khl-cloud-results.pages.dev/khl/=45744
- - khl_players_stats_1369.xlsx → https://khl-cloud-results.pages.dev/khl/=45744
- - Injuries_Master_Clubs.xlsx → https://khl-cloud-results.pages.dev/khl/=45744
- - khl_referees_stats_1369.xlsx → https://khl-cloud-results.pages.dev/khl/=45744
- - fon_khl_odds.json → https://khl-cloud-results.pages.dev/khl/=45744
+• uids_khl_season.csv
+https://khl-cloud-results.pages.dev/khl/uids_khl_season.csv
 
-Архив:
- - khl_everyday_30-10-2025-11-39.zip → https://khl-cloud-results.pages.dev/khl/archives/=45744
+• khl_stats_1369.xlsx
+https://khl-cloud-results.pages.dev/khl/khl_stats_1369.xlsx
+
+• khl_stats_1369_ext.xlsx
+https://khl-cloud-results.pages.dev/khl/khl_stats_1369_ext.xlsx
+
+• khl_players_stats_1369.xlsx
+https://khl-cloud-results.pages.dev/khl/khl_players_stats_1369.xlsx
+
+• Injuries_Master_Clubs.xlsx
+https://khl-cloud-results.pages.dev/khl/Injuries_Master_Clubs.xlsx
+
+• khl_referees_stats_1369.xlsx
+https://khl-cloud-results.pages.dev/khl/khl_referees_stats_1369.xlsx
+
+• fon_khl_odds.json
+https://khl-cloud-results.pages.dev/khl/fon_khl_odds.json
+
+ZIP:
+https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_30-10-2025-11-57.zip
