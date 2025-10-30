@@ -1,0 +1,12 @@
+﻿✅ Выгрузка констант завершена: 2025-10-30 13:38:32
+
+Файлы:
+• khl_team_directory_clean.xlsx
+https://khl-cloud-results.pages.dev/khl/const_core/khl_team_directory_clean.xlsx
+• data_khl_25-26.ics
+https://khl-cloud-results.pages.dev/khl/const_core/data_khl_25-26.ics
+• khl_travel_matrix_25_26.csv
+https://khl-cloud-results.pages.dev/khl/const_core/khl_travel_matrix_25_26.csv
+
+ZIP:
+https://khl-cloud-results.pages.dev/khl/archives/khl_const_core_30-10-2025-13-38.zip
