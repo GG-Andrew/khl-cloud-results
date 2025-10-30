@@ -1,4 +1,4 @@
-﻿✅ Выгрузка завершена: 2025-10-30 14:33:56
+﻿✅ Выгрузка завершена: 2025-10-30 14:48:08
 
 Файлы:
  - uids_khl_season.csv → https://khl-cloud-results.pages.dev/khl/uids_khl_season.csv
@@ -10,7 +10,4 @@
  - fon_khl_odds.json → https://khl-cloud-results.pages.dev/khl/fon_khl_odds.json
 
 Архив:
- - khl_everyday_30-10-2025-14-33.zip → https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_30-10-2025-14-33.zip
-
-Const-core ZIP:
-https://khl-cloud-results.pages.dev/khl/archives/khl_const_core_30-10-2025-13-40.zip
+ - khl_everyday_30-10-2025-14-48.zip → https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_30-10-2025-14-48.zip
