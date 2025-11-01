@@ -1,8 +1,7 @@
-﻿# Глобально: отключим жёсткий кэш листинга
+﻿# no hard cache for listing
 /*
   Cache-Control: no-cache
 
-# Бинарники — принудительно attachment и типы
 /archives/*
   Cache-Control: public, max-age=60
   Content-Disposition: attachment
