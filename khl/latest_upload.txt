@@ -1,4 +1,4 @@
-﻿✅ Выгрузка завершена: 2025-11-01 12:37:06
+﻿✅ Выгрузка завершена: 2025-11-01 15:02:24
 
 Файлы:
 • uids_khl_season.csv
@@ -37,10 +37,10 @@ Raw    → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/kh
 CDN    → https://cdn.jsdelivr.net/gh/GG-Andrew/khl-cloud-results@main/khl/fon_khl_odds.json
 
 ZIP:
-• khl_everyday_01-11-2025-12-37.zip
-Pages  → https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_01-11-2025-12-37.zip
-Raw    → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_01-11-2025-12-37.zip
-CDN    → https://cdn.jsdelivr.net/gh/GG-Andrew/khl-cloud-results@main/khl/archives/khl_everyday_01-11-2025-12-37.zip
+• khl_everyday_01-11-2025-15-02.zip
+Pages  → https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_01-11-2025-15-02.zip
+Raw    → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_01-11-2025-15-02.zip
+CDN    → https://cdn.jsdelivr.net/gh/GG-Andrew/khl-cloud-results@main/khl/archives/khl_everyday_01-11-2025-15-02.zip
 
 Const Core (последний):
 • khl_const_core_30-10-2025-14-47.zip
