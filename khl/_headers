@@ -1,0 +1,23 @@
+﻿# Глобально: отключим жёсткий кэш листинга
+/*
+  Cache-Control: no-cache
+
+# Бинарники — принудительно attachment и типы
+/archives/*
+  Cache-Control: public, max-age=60
+  Content-Disposition: attachment
+
+/*.xlsx
+  Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  Cache-Control: public, max-age=60
+  Content-Disposition: attachment
+
+/*.csv
+  Content-Type: text/csv; charset=utf-8
+  Cache-Control: public, max-age=60
+  Content-Disposition: attachment
+
+/*.json
+  Content-Type: application/json
+  Cache-Control: public, max-age=60
+  Content-Disposition: inline
