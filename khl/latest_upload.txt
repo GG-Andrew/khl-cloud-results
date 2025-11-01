@@ -1,14 +1,25 @@
-﻿✅ Выгрузка завершена: 2025-11-01 18:29:01
+﻿✅ Выгрузка завершена: 2025-11-01 20:29:44
 
 Файлы:
- - uids_khl_season.csv → https://khl-cloud-results.pages.dev/khl/uids_khl_season.csv
- - khl_stats_1369.xlsx → https://khl-cloud-results.pages.dev/khl/khl_stats_1369.xlsx
- - khl_stats_1369_ext.xlsx → https://khl-cloud-results.pages.dev/khl/khl_stats_1369_ext.xlsx
- - khl_players_stats_1369.xlsx → https://khl-cloud-results.pages.dev/khl/khl_players_stats_1369.xlsx
- - Injuries_Master_Clubs.xlsx → https://khl-cloud-results.pages.dev/khl/Injuries_Master_Clubs.xlsx
- - khl_referees_stats_1369.xlsx → https://khl-cloud-results.pages.dev/khl/khl_referees_stats_1369.xlsx
- - fon_khl_odds.json → https://khl-cloud-results.pages.dev/khl/fon_khl_odds.json
+ - uids_khl_season.csv → https://results.beton-khl.ru/khl/uids_khl_season.csv
+ - khl_stats_1369.xlsx → https://results.beton-khl.ru/khl/khl_stats_1369.xlsx
+ - khl_stats_1369_ext.xlsx → https://results.beton-khl.ru/khl/khl_stats_1369_ext.xlsx
+ - khl_players_stats_1369.xlsx → https://results.beton-khl.ru/khl/khl_players_stats_1369.xlsx
+ - Injuries_Master_Clubs.xlsx → https://results.beton-khl.ru/khl/Injuries_Master_Clubs.xlsx
+ - khl_referees_stats_1369.xlsx → https://results.beton-khl.ru/khl/khl_referees_stats_1369.xlsx
+ - fon_khl_odds.json → https://results.beton-khl.ru/khl/fon_khl_odds.json
 
-Архивы:
- - khl_everyday_01-11-2025-18-29.zip → https://khl-cloud-results.pages.dev/khl/archives/khl_everyday_01-11-2025-18-29.zip
- - khl_const_core_30-10-2025-14-47.zip → https://khl-cloud-results.pages.dev/khl/archives/khl_const_core_30-10-2025-14-47.zip
+Архив:
+ - khl_everyday_01-11-2025-20-29.zip → https://results.beton-khl.ru/khl/archives/khl_everyday_01-11-2025-20-29.zip
+ - khl_const_core_30-10-2025-14-47.zip → https://results.beton-khl.ru/khl/archives/khl_const_core_30-10-2025-14-47.zip
+
+Зеркала (GitHub Raw):
+ - uids_khl_season.csv → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/uids_khl_season.csv
+ - khl_stats_1369.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_stats_1369.xlsx
+ - khl_stats_1369_ext.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_stats_1369_ext.xlsx
+ - khl_players_stats_1369.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_players_stats_1369.xlsx
+ - Injuries_Master_Clubs.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/Injuries_Master_Clubs.xlsx
+ - khl_referees_stats_1369.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_referees_stats_1369.xlsx
+ - fon_khl_odds.json → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/fon_khl_odds.json
+ - khl_everyday_01-11-2025-20-29.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_01-11-2025-20-29.zip
+ - khl_const_core_30-10-2025-14-47.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_const_core_30-10-2025-14-47.zip
