@@ -1,4 +1,4 @@
-﻿✅ Выгрузка завершена: 2025-11-06 18:30:09
+﻿✅ Выгрузка завершена: 2025-11-07 10:49:23
 
 Файлы:
  - uids_khl_season.csv → https://results.beton-khl.ru/khl/uids_khl_season.csv
@@ -11,7 +11,7 @@
  - fon_khl_odds.json → https://results.beton-khl.ru/khl/fon_khl_odds.json
 
 Архив:
- - khl_everyday_06-11-2025-18-30.zip → https://results.beton-khl.ru/khl/archives/khl_everyday_06-11-2025-18-30.zip
+ - khl_everyday_07-11-2025-10-49.zip → https://results.beton-khl.ru/khl/archives/khl_everyday_07-11-2025-10-49.zip
  - khl_const_core_03-11-2025-22-32.zip → https://results.beton-khl.ru/khl/archives/khl_const_core_03-11-2025-22-32.zip
 
 Зеркала (GitHub Raw):
@@ -23,5 +23,5 @@
  - Injuries_Master_Clubs.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/Injuries_Master_Clubs.xlsx
  - khl_referees_stats_1369.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_referees_stats_1369.xlsx
  - fon_khl_odds.json → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/fon_khl_odds.json
- - khl_everyday_06-11-2025-18-30.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_06-11-2025-18-30.zip
+ - khl_everyday_07-11-2025-10-49.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_07-11-2025-10-49.zip
  - khl_const_core_03-11-2025-22-32.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_const_core_03-11-2025-22-32.zip
