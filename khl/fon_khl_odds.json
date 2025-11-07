@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-11-07T03:03:45Z",
+  "generated_at_utc": "2025-11-07T07:03:27Z",
   "version": 1,
   "days": [
     {
@@ -80,13 +80,13 @@
               },
               {
                 "line": 64.5,
-                "over": 1.85,
-                "under": 1.85
+                "over": 1.87,
+                "under": 1.83
               },
               {
                 "line": 65.5,
-                "over": 1.99,
-                "under": 1.73
+                "over": 2.03,
+                "under": 1.7
               }
             ],
             "sog_1x2": {
@@ -237,12 +237,12 @@
               }
             ],
             "sog_1x2": {
-              "P1": 1.8,
-              "P2": 1.98
+              "P1": 1.68,
+              "P2": 2.15
             },
             "sog_double_chance": {
-              "1X": 1.72,
-              "X2": 1.9
+              "1X": 1.62,
+              "X2": 2.05
             },
             "period_totals": {
               "1": [
