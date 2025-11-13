@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-11-13T04:10:38Z",
+  "generated_at_utc": "2025-11-13T09:47:48Z",
   "version": 1,
   "days": [
     {
@@ -17,13 +17,13 @@
               "AWAY": 2.45
             },
             "1x2_60": {
-              "P1": 1.88,
-              "X": 4.4,
+              "P1": 1.9,
+              "X": 4.3,
               "P2": 3.4
             },
             "double_chance_60": {
               "1X": 1.32,
-              "X2": 1.92
+              "X2": 1.9
             },
             "totals_goals": [
               {
@@ -72,6 +72,31 @@
                 "under": 1.25
               }
             ],
+            "sog_match": [
+              {
+                "line": 62.5,
+                "over": 1.73,
+                "under": 1.99
+              },
+              {
+                "line": 63.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 64.5,
+                "over": 1.99,
+                "under": 1.73
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.55,
+              "P2": 2.4
+            },
+            "sog_double_chance": {
+              "1X": 1.5,
+              "X2": 2.3
+            },
             "period_totals": {
               "1": [
                 {
@@ -81,8 +106,8 @@
                 },
                 {
                   "line": 1.5,
-                  "over": 1.78,
-                  "under": 1.92
+                  "over": 1.8,
+                  "under": 1.9
                 },
                 {
                   "line": 2.5,
@@ -133,8 +158,8 @@
               },
               {
                 "handicap": 0,
-                "home": 1.48,
-                "away": 2.55
+                "home": 1.47,
+                "away": 2.6
               }
             ]
           }
@@ -146,17 +171,17 @@
           "markets": {
             "1x2_60": {
               "P1": 1.8,
-              "P2": 2.65
+              "P2": 2.7
             },
             "double_chance_60": {
-              "1X": 1.42,
+              "1X": 1.4,
               "X2": 1.9
             },
             "totals_goals": [
               {
                 "line": 3.5,
                 "over": 1.06,
-                "under": 1.23
+                "under": 1.2
               }
             ],
             "period_totals": {
@@ -191,8 +216,8 @@
               },
               {
                 "handicap": -3.5,
-                "home": 3.7,
-                "away": 1.23
+                "home": 4,
+                "away": 1.2
               }
             ]
           }
@@ -213,13 +238,13 @@
               "AWAY": 2
             },
             "1x2_60": {
-              "P1": 2.3,
-              "X": 4.4,
+              "P1": 2.35,
+              "X": 4.3,
               "P2": 2.65
             },
             "double_chance_60": {
               "1X": 1.48,
-              "X2": 1.62
+              "X2": 1.6
             },
             "totals_goals": [
               {
@@ -264,10 +289,35 @@
               },
               {
                 "line": 7.5,
-                "over": 5,
+                "over": 4.9,
                 "under": 1.16
               }
             ],
+            "sog_match": [
+              {
+                "line": 57.5,
+                "over": 1.72,
+                "under": 2
+              },
+              {
+                "line": 58.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 59.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.33,
+              "P2": 3.2
+            },
+            "sog_double_chance": {
+              "1X": 1.3,
+              "X2": 3.05
+            },
             "period_totals": {
               "1": [
                 {
@@ -319,7 +369,7 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3,
+                "home": 3.05,
                 "away": 1.35
               },
               {
@@ -329,7 +379,7 @@
               },
               {
                 "handicap": -2.5,
-                "home": 4.6,
+                "home": 4.7,
                 "away": 1.17
               },
               {
