@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-11-21T03:02:47Z",
+  "generated_at_utc": "2025-11-21T07:02:59Z",
   "version": 1,
   "days": [
     {
@@ -485,47 +485,47 @@
               {
                 "line": 3.5,
                 "over": 1.2,
-                "under": 4.3
+                "under": 4.15
               },
               {
                 "line": 4,
-                "over": 1.25,
-                "under": 3.65
+                "over": 1.27,
+                "under": 3.55
               },
               {
                 "line": 4.5,
                 "over": 1.5,
-                "under": 2.55
+                "under": 2.5
               },
               {
                 "line": 5,
-                "over": 1.67,
-                "under": 2.15
+                "over": 1.7,
+                "under": 2.1
               },
               {
                 "line": 5.5,
-                "over": 2,
-                "under": 1.8
+                "over": 2.05,
+                "under": 1.77
               },
               {
                 "line": 6,
-                "over": 2.45,
+                "over": 2.55,
                 "under": 1.5
               },
               {
                 "line": 6.5,
-                "over": 2.9,
-                "under": 1.4
+                "over": 2.95,
+                "under": 1.37
               },
               {
                 "line": 7,
-                "over": 4,
-                "under": 1.23
+                "over": 4.1,
+                "under": 1.22
               },
               {
                 "line": 7.5,
-                "over": 4.4,
-                "under": 1.19
+                "over": 4.6,
+                "under": 1.18
               }
             ],
             "period_totals": {
@@ -537,20 +537,20 @@
                 },
                 {
                   "line": 1.5,
-                  "over": 1.87,
-                  "under": 1.83
+                  "over": 1.9,
+                  "under": 1.8
                 },
                 {
                   "line": 2.5,
-                  "over": 3.65,
-                  "under": 1.25
+                  "over": 3.75,
+                  "under": 1.23
                 }
               ],
               "2": [
                 {
                   "line": 1.5,
-                  "over": 1.63,
-                  "under": 2.13
+                  "over": 1.65,
+                  "under": 2.1
                 },
                 {
                   "line": 2.5,
@@ -561,20 +561,20 @@
               "3": [
                 {
                   "line": 1.5,
-                  "over": 1.6,
-                  "under": 2.2
+                  "over": 1.62,
+                  "under": 2.15
                 },
                 {
                   "line": 2.5,
-                  "over": 2.85,
-                  "under": 1.37
+                  "over": 2.9,
+                  "under": 1.35
                 }
               ]
             },
             "spreads": [
               {
                 "handicap": -3.5,
-                "home": 3.35,
+                "home": 3.4,
                 "away": 1.3
               },
               {
