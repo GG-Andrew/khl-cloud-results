@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-11-26T03:03:56Z",
+  "generated_at_utc": "2025-11-26T07:04:26Z",
   "version": 1,
   "days": [
     {
@@ -72,6 +72,29 @@
                 "under": 1.17
               }
             ],
+            "sog_match": [
+              {
+                "line": 61.5,
+                "over": 1.73,
+                "under": 1.99
+              },
+              {
+                "line": 62.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 63.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.05
+            },
+            "sog_double_chance": {
+              "1X": 1.05
+            },
             "period_totals": {
               "1": [
                 {
@@ -234,6 +257,29 @@
                 "under": 1.23
               }
             ],
+            "sog_match": [
+              {
+                "line": 61.5,
+                "over": 1.73,
+                "under": 1.99
+              },
+              {
+                "line": 62.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 63.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.05
+            },
+            "sog_double_chance": {
+              "1X": 1.05
+            },
             "period_totals": {
               "1": [
                 {
@@ -488,6 +534,31 @@
                 "under": 1.19
               }
             ],
+            "sog_match": [
+              {
+                "line": 55.5,
+                "over": 1.72,
+                "under": 2
+              },
+              {
+                "line": 56.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 57.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 1.67,
+              "P2": 2.17
+            },
+            "sog_double_chance": {
+              "1X": 1.62,
+              "X2": 2.07
+            },
             "period_totals": {
               "1": [
                 {
@@ -600,13 +671,13 @@
               "AWAY": 1.77
             },
             "1x2_60": {
-              "P1": 2.7,
-              "X": 4.2,
-              "P2": 2.25
+              "P1": 2.75,
+              "X": 4.3,
+              "P2": 2.3
             },
             "double_chance_60": {
-              "1X": 1.65,
-              "X2": 1.47
+              "1X": 1.62,
+              "X2": 1.45
             },
             "totals_goals": [
               {
@@ -650,6 +721,31 @@
                 "under": 1.17
               }
             ],
+            "sog_match": [
+              {
+                "line": 56.5,
+                "over": 1.72,
+                "under": 2
+              },
+              {
+                "line": 57.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 58.5,
+                "over": 2,
+                "under": 1.72
+              }
+            ],
+            "sog_1x2": {
+              "P1": 2.45,
+              "P2": 1.55
+            },
+            "sog_double_chance": {
+              "1X": 2.3,
+              "X2": 1.48
+            },
             "period_totals": {
               "1": [
                 {
