@@ -1,345 +1,105 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-11-26T07:04:26Z",
+  "generated_at_utc": "2025-11-27T03:03:57Z",
   "version": 1,
   "days": [
     {
-      "date": "2025-11-26",
+      "date": "2025-11-27",
       "league": "KHL",
       "games": [
         {
-          "home": "Адмирал",
-          "away": "Амур",
-          "start_utc": "2025-11-26T09:30:00Z",
+          "home": "Металлург Мг",
+          "away": "Авангард",
+          "start_utc": "2025-11-27T14:00:00Z",
           "markets": {
             "ml": {
-              "HOME": 1.6,
-              "AWAY": 2.3
+              "HOME": 1.7,
+              "AWAY": 2.13
             },
             "1x2_60": {
-              "P1": 2,
+              "P1": 2.15,
               "X": 4.3,
-              "P2": 3.13
+              "P2": 2.82
             },
             "double_chance_60": {
-              "1X": 1.35,
-              "X2": 1.8
+              "1X": 1.43,
+              "X2": 1.7
             },
             "totals_goals": [
               {
-                "line": 3.5,
-                "over": 1.22,
-                "under": 4.05
-              },
-              {
                 "line": 4,
-                "over": 1.3,
-                "under": 3.45
+                "over": 1.18,
+                "under": 4.6
               },
               {
                 "line": 4.5,
-                "over": 1.55,
-                "under": 2.4
+                "over": 1.37,
+                "under": 2.95
               },
               {
                 "line": 5,
+                "over": 1.48,
+                "under": 2.55
+              },
+              {
+                "line": 5.5,
                 "over": 1.75,
-                "under": 2
-              },
-              {
-                "line": 5.5,
-                "over": 2.1,
-                "under": 1.75
+                "under": 2.07
               },
               {
                 "line": 6,
-                "over": 2.65,
-                "under": 1.45
+                "over": 2.07,
+                "under": 1.7
               },
               {
                 "line": 6.5,
-                "over": 3.1,
-                "under": 1.35
+                "over": 2.45,
+                "under": 1.52
               },
               {
                 "line": 7,
-                "over": 4.3,
-                "under": 1.2
+                "over": 3.15,
+                "under": 1.33
               },
               {
                 "line": 7.5,
-                "over": 4.7,
-                "under": 1.17
+                "over": 3.6,
+                "under": 1.27
               }
             ],
-            "sog_match": [
-              {
-                "line": 61.5,
-                "over": 1.73,
-                "under": 1.99
-              },
-              {
-                "line": 62.5,
-                "over": 1.85,
-                "under": 1.85
-              },
-              {
-                "line": 63.5,
-                "over": 2,
-                "under": 1.72
-              }
-            ],
-            "sog_1x2": {
-              "P1": 1.05
-            },
-            "sog_double_chance": {
-              "1X": 1.05
-            },
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.19,
-                  "under": 4.2
+                  "over": 1.15,
+                  "under": 4.8
                 },
                 {
                   "line": 1,
-                  "over": 1.35,
-                  "under": 3
+                  "over": 1.25,
+                  "under": 3.55
                 },
                 {
                   "line": 1.5,
-                  "over": 1.92,
-                  "under": 1.78
+                  "over": 1.75,
+                  "under": 1.95
                 },
                 {
                   "line": 2,
-                  "over": 2.95,
-                  "under": 1.35
+                  "over": 2.5,
+                  "under": 1.47
                 },
                 {
                   "line": 2.5,
-                  "over": 3.8,
-                  "under": 1.22
+                  "over": 3.3,
+                  "under": 1.3
                 }
               ],
               "2": [
                 {
                   "line": 1,
-                  "over": 1.2,
-                  "under": 3.9
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.67,
-                  "under": 2.07
-                },
-                {
-                  "line": 2,
-                  "over": 2.3,
-                  "under": 1.55
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.05,
-                  "under": 1.33
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
-                  "over": 1.2,
-                  "under": 4.05
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.65,
-                  "under": 2.1
-                },
-                {
-                  "line": 2,
-                  "over": 2.25,
-                  "under": 1.58
-                },
-                {
-                  "line": 2.5,
-                  "over": 2.95,
-                  "under": 1.35
-                }
-              ]
-            },
-            "spreads": [
-              {
-                "handicap": -1.5,
-                "home": 2.55,
-                "away": 1.48
-              },
-              {
-                "handicap": -2,
-                "home": 3.4,
-                "away": 1.3
-              },
-              {
-                "handicap": -2.5,
-                "home": 3.85,
-                "away": 1.25
-              },
-              {
-                "handicap": 0,
-                "home": 1.55,
-                "away": 2.4
-              }
-            ]
-          }
-        },
-        {
-          "home": "Трактор",
-          "away": "Шанхай Дрэгонс",
-          "start_utc": "2025-11-26T14:00:00Z",
-          "markets": {
-            "ml": {
-              "HOME": 1.5,
-              "AWAY": 2.55
-            },
-            "1x2_60": {
-              "P1": 1.85,
-              "X": 4.3,
-              "P2": 3.59
-            },
-            "double_chance_60": {
-              "1X": 1.3,
-              "X2": 1.95
-            },
-            "totals_goals": [
-              {
-                "line": 3.5,
-                "over": 1.16,
-                "under": 4.8
-              },
-              {
-                "line": 4,
-                "over": 1.2,
-                "under": 4.15
-              },
-              {
-                "line": 4.5,
-                "over": 1.42,
-                "under": 2.75
-              },
-              {
-                "line": 5,
-                "over": 1.55,
-                "under": 2.35
-              },
-              {
-                "line": 5.5,
-                "over": 1.85,
-                "under": 1.95
-              },
-              {
-                "line": 6,
-                "over": 2.25,
-                "under": 1.62
-              },
-              {
-                "line": 6.5,
-                "over": 2.65,
-                "under": 1.45
-              },
-              {
-                "line": 7,
-                "over": 3.5,
-                "under": 1.28
-              },
-              {
-                "line": 7.5,
-                "over": 3.9,
-                "under": 1.23
-              }
-            ],
-            "sog_match": [
-              {
-                "line": 61.5,
-                "over": 1.73,
-                "under": 1.99
-              },
-              {
-                "line": 62.5,
-                "over": 1.85,
-                "under": 1.85
-              },
-              {
-                "line": 63.5,
-                "over": 2,
-                "under": 1.72
-              }
-            ],
-            "sog_1x2": {
-              "P1": 1.05
-            },
-            "sog_double_chance": {
-              "1X": 1.05
-            },
-            "period_totals": {
-              "1": [
-                {
-                  "line": 0.5,
-                  "over": 1.16,
-                  "under": 4.6
-                },
-                {
-                  "line": 1,
-                  "over": 1.27,
-                  "under": 3.35
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.8,
-                  "under": 1.9
-                },
-                {
-                  "line": 2,
-                  "over": 2.6,
-                  "under": 1.43
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.45,
-                  "under": 1.27
-                }
-              ],
-              "2": [
-                {
-                  "line": 1,
-                  "over": 1.17,
-                  "under": 4.4
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.58,
-                  "under": 2.25
-                },
-                {
-                  "line": 2,
-                  "over": 2.07,
-                  "under": 1.67
-                },
-                {
-                  "line": 2.5,
-                  "over": 2.75,
-                  "under": 1.4
-                },
-                {
-                  "line": 3,
-                  "over": 4.7,
-                  "under": 1.15
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
-                  "over": 1.16,
-                  "under": 4.6
+                  "over": 1.15,
+                  "under": 4.7
                 },
                 {
                   "line": 1.5,
@@ -348,460 +108,171 @@
                 },
                 {
                   "line": 2,
-                  "over": 2.02,
-                  "under": 1.7
+                  "over": 1.98,
+                  "under": 1.72
                 },
                 {
                   "line": 2.5,
-                  "over": 2.7,
-                  "under": 1.4
+                  "over": 2.65,
+                  "under": 1.42
                 },
                 {
                   "line": 3,
-                  "over": 4.5,
+                  "over": 4.4,
                   "under": 1.17
-                }
-              ]
-            },
-            "spreads": [
-              {
-                "handicap": -1.5,
-                "home": 2.35,
-                "away": 1.57
-              },
-              {
-                "handicap": -2,
-                "home": 3.05,
-                "away": 1.35
-              },
-              {
-                "handicap": -2.5,
-                "home": 3.5,
-                "away": 1.28
-              },
-              {
-                "handicap": 0,
-                "home": 1.45,
-                "away": 2.7
-              }
-            ]
-          }
-        },
-        {
-          "home": "Хозяева",
-          "away": "Гости",
-          "start_utc": "2025-11-26T09:30:00Z",
-          "markets": {
-            "1x2_60": {
-              "P1": 1.67,
-              "P2": 2.6
-            },
-            "double_chance_60": {
-              "1X": 1.45,
-              "X2": 2.07
-            },
-            "period_totals": {
-              "1": [
-                {
-                  "line": 1.5,
-                  "over": 1.2,
-                  "under": 1.46
-                },
-                {
-                  "line": 2.5,
-                  "over": 1.07,
-                  "under": 1.23
-                },
-                {
-                  "line": 4.5,
-                  "over": 1.2,
-                  "under": 4
-                },
-                {
-                  "line": 5.5,
-                  "over": 1.45,
-                  "under": 2.55
-                },
-                {
-                  "line": 6.5,
-                  "over": 1.85,
-                  "under": 1.85
-                },
-                {
-                  "line": 7.5,
-                  "over": 2.5,
-                  "under": 1.47
-                },
-                {
-                  "line": 8.5,
-                  "over": 3.55,
-                  "under": 1.25
-                }
-              ]
-            },
-            "spreads": [
-              {
-                "handicap": -1.5,
-                "home": 3.2,
-                "away": 1.3
-              },
-              {
-                "handicap": -3.5,
-                "home": 2.7,
-                "away": 1.4
-              },
-              {
-                "handicap": -4.5,
-                "home": 3.3,
-                "away": 1.28
-              },
-              {
-                "handicap": -5.5,
-                "home": 4.2,
-                "away": 1.19
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-11-27",
-      "league": "KHL",
-      "games": [
-        {
-          "home": "Северсталь",
-          "away": "СКА",
-          "start_utc": "2025-11-26T16:30:00Z",
-          "markets": {
-            "ml": {
-              "HOME": 1.72,
-              "AWAY": 2.12
-            },
-            "1x2_60": {
-              "P1": 2.2,
-              "X": 4.1,
-              "P2": 2.85
-            },
-            "double_chance_60": {
-              "1X": 1.42,
-              "X2": 1.65
-            },
-            "totals_goals": [
-              {
-                "line": 3.5,
-                "over": 1.2,
-                "under": 4.3
-              },
-              {
-                "line": 4,
-                "over": 1.25,
-                "under": 3.65
-              },
-              {
-                "line": 4.5,
-                "over": 1.5,
-                "under": 2.5
-              },
-              {
-                "line": 5,
-                "over": 1.67,
-                "under": 2.13
-              },
-              {
-                "line": 5.5,
-                "over": 2,
-                "under": 1.8
-              },
-              {
-                "line": 6,
-                "over": 2.5,
-                "under": 1.5
-              },
-              {
-                "line": 6.5,
-                "over": 2.95,
-                "under": 1.38
-              },
-              {
-                "line": 7,
-                "over": 4,
-                "under": 1.23
-              },
-              {
-                "line": 7.5,
-                "over": 4.4,
-                "under": 1.19
-              }
-            ],
-            "sog_match": [
-              {
-                "line": 55.5,
-                "over": 1.72,
-                "under": 2
-              },
-              {
-                "line": 56.5,
-                "over": 1.85,
-                "under": 1.85
-              },
-              {
-                "line": 57.5,
-                "over": 2,
-                "under": 1.72
-              }
-            ],
-            "sog_1x2": {
-              "P1": 1.67,
-              "P2": 2.17
-            },
-            "sog_double_chance": {
-              "1X": 1.62,
-              "X2": 2.07
-            },
-            "period_totals": {
-              "1": [
-                {
-                  "line": 0.5,
-                  "over": 1.18,
-                  "under": 4.3
-                },
-                {
-                  "line": 1,
-                  "over": 1.3,
-                  "under": 3.15
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.87,
-                  "under": 1.83
-                },
-                {
-                  "line": 2,
-                  "over": 2.85,
-                  "under": 1.38
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.7,
-                  "under": 1.25
-                }
-              ],
-              "2": [
-                {
-                  "line": 1,
-                  "over": 1.2,
-                  "under": 4.05
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.65,
-                  "under": 2.1
-                },
-                {
-                  "line": 2,
-                  "over": 2.2,
-                  "under": 1.6
-                },
-                {
-                  "line": 2.5,
-                  "over": 2.95,
-                  "under": 1.35
                 }
               ],
               "3": [
                 {
                   "line": 1,
-                  "over": 1.19,
-                  "under": 4.2
+                  "over": 1.14,
+                  "under": 4.8
                 },
                 {
                   "line": 1.5,
-                  "over": 1.6,
-                  "under": 2.2
+                  "over": 1.52,
+                  "under": 2.35
                 },
                 {
                   "line": 2,
-                  "over": 2.15,
-                  "under": 1.62
+                  "over": 1.93,
+                  "under": 1.77
                 },
                 {
                   "line": 2.5,
-                  "over": 2.85,
-                  "under": 1.37
+                  "over": 2.55,
+                  "under": 1.45
                 },
                 {
                   "line": 3,
-                  "over": 4.9,
-                  "under": 1.14
+                  "over": 4.2,
+                  "under": 1.19
                 }
               ]
             },
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 2.85,
-                "away": 1.4
+                "home": 2.75,
+                "away": 1.42
               },
               {
                 "handicap": -2,
-                "home": 3.85,
+                "home": 3.7,
                 "away": 1.25
               },
               {
                 "handicap": -2.5,
-                "home": 4.3,
+                "home": 4.15,
                 "away": 1.2
               },
               {
                 "handicap": 0,
-                "home": 1.67,
+                "home": 1.65,
                 "away": 2.15
               }
             ]
           }
         },
         {
-          "home": "Динамо Москва",
-          "away": "Локомотив Ярославль",
-          "start_utc": "2025-11-26T16:30:00Z",
+          "home": "Салават Юлаев",
+          "away": "Барыс",
+          "start_utc": "2025-11-27T14:00:00Z",
           "markets": {
             "ml": {
-              "HOME": 2.05,
-              "AWAY": 1.77
+              "HOME": 1.58,
+              "AWAY": 2.4
             },
             "1x2_60": {
-              "P1": 2.75,
+              "P1": 1.95,
               "X": 4.3,
-              "P2": 2.3
+              "P2": 3.26
             },
             "double_chance_60": {
-              "1X": 1.62,
-              "X2": 1.45
+              "1X": 1.35,
+              "X2": 1.85
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.25,
-                "under": 3.8
+                "over": 1.23,
+                "under": 3.9
               },
               {
                 "line": 4,
-                "over": 1.33,
-                "under": 3.2
+                "over": 1.3,
+                "under": 3.3
               },
               {
                 "line": 4.5,
-                "over": 1.6,
-                "under": 2.25
+                "over": 1.57,
+                "under": 2.35
               },
               {
                 "line": 5,
-                "over": 1.83,
-                "under": 1.91
+                "over": 1.8,
+                "under": 1.95
               },
               {
                 "line": 5.5,
-                "over": 2.2,
-                "under": 1.65
+                "over": 2.13,
+                "under": 1.7
               },
               {
                 "line": 6,
-                "over": 2.85,
-                "under": 1.4
+                "over": 2.75,
+                "under": 1.43
               },
               {
                 "line": 6.5,
-                "over": 3.3,
-                "under": 1.3
+                "over": 3.2,
+                "under": 1.33
               },
               {
                 "line": 7,
-                "over": 4.7,
-                "under": 1.17
-              }
-            ],
-            "sog_match": [
-              {
-                "line": 56.5,
-                "over": 1.72,
-                "under": 2
+                "over": 4.5,
+                "under": 1.18
               },
               {
-                "line": 57.5,
-                "over": 1.85,
-                "under": 1.85
-              },
-              {
-                "line": 58.5,
-                "over": 2,
-                "under": 1.72
+                "line": 7.5,
+                "over": 5,
+                "under": 1.16
               }
             ],
-            "sog_1x2": {
-              "P1": 2.45,
-              "P2": 1.55
-            },
-            "sog_double_chance": {
-              "1X": 2.3,
-              "X2": 1.48
-            },
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.2,
-                  "under": 4.05
+                  "over": 1.19,
+                  "under": 4.1
                 },
                 {
                   "line": 1,
                   "over": 1.35,
-                  "under": 2.9
+                  "under": 2.95
                 },
                 {
                   "line": 1.5,
-                  "over": 1.97,
-                  "under": 1.73
+                  "over": 1.95,
+                  "under": 1.75
                 },
                 {
                   "line": 2,
-                  "over": 3.1,
-                  "under": 1.32
+                  "over": 3,
+                  "under": 1.33
                 },
                 {
                   "line": 2.5,
-                  "over": 4,
+                  "over": 3.9,
                   "under": 1.2
                 }
               ],
               "2": [
                 {
                   "line": 0.5,
-                  "over": 1.14,
-                  "under": 4.9
+                  "over": 1.13,
+                  "under": 5
                 },
-                {
-                  "line": 1,
-                  "over": 1.23,
-                  "under": 3.7
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.7,
-                  "under": 2.02
-                },
-                {
-                  "line": 2,
-                  "over": 2.4,
-                  "under": 1.5
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.15,
-                  "under": 1.3
-                }
-              ],
-              "3": [
                 {
                   "line": 1,
                   "over": 1.22,
@@ -822,39 +293,143 @@
                   "over": 3.1,
                   "under": 1.32
                 }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.2,
+                  "under": 3.9
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.67,
+                  "under": 2.08
+                },
+                {
+                  "line": 2,
+                  "over": 2.3,
+                  "under": 1.55
+                },
+                {
+                  "line": 2.5,
+                  "over": 3,
+                  "under": 1.33
+                }
               ]
             },
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3.55,
-                "away": 1.27
+                "home": 2.45,
+                "away": 1.52
+              },
+              {
+                "handicap": -2,
+                "home": 3.25,
+                "away": 1.32
+              },
+              {
+                "handicap": -2.5,
+                "home": 3.7,
+                "away": 1.25
               },
               {
                 "handicap": 0,
-                "home": 2.05,
-                "away": 1.72
+                "home": 1.5,
+                "away": 2.45
               }
             ]
           }
         },
         {
-          "home": "Металлург Мг",
-          "away": "Авангард",
+          "home": "Хозяева",
+          "away": "Гости",
           "start_utc": "2025-11-27T14:00:00Z",
           "markets": {
-            "ml": {
-              "HOME": 1.7,
-              "AWAY": 2.13
-            },
             "1x2_60": {
-              "P1": 2.15,
-              "X": 4.3,
-              "P2": 2.82
+              "P1": 1.43,
+              "P2": 3.5
             },
             "double_chance_60": {
-              "1X": 1.43,
-              "X2": 1.7
+              "1X": 1.25,
+              "X2": 2.6
+            },
+            "period_totals": {
+              "1": [
+                {
+                  "line": 1.5,
+                  "over": 1.15,
+                  "under": 1.6
+                },
+                {
+                  "line": 4.5,
+                  "over": 1.17,
+                  "under": 4.4
+                },
+                {
+                  "line": 5.5,
+                  "over": 1.38,
+                  "under": 2.8
+                },
+                {
+                  "line": 6.5,
+                  "over": 1.72,
+                  "under": 2
+                },
+                {
+                  "line": 7.5,
+                  "over": 2.3,
+                  "under": 1.55
+                },
+                {
+                  "line": 8.5,
+                  "over": 3.2,
+                  "under": 1.3
+                }
+              ]
+            },
+            "spreads": [
+              {
+                "handicap": -4.5,
+                "home": 2.45,
+                "away": 1.48
+              },
+              {
+                "handicap": -5.5,
+                "home": 3,
+                "away": 1.33
+              },
+              {
+                "handicap": -6.5,
+                "home": 3.8,
+                "away": 1.22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "league": "KHL",
+      "games": [
+        {
+          "home": "Спартак",
+          "away": "Автомобилист",
+          "start_utc": "2025-11-27T16:30:00Z",
+          "markets": {
+            "ml": {
+              "HOME": 1.85,
+              "AWAY": 1.95
+            },
+            "1x2_60": {
+              "P1": 2.35,
+              "X": 4.3,
+              "P2": 2.54
+            },
+            "double_chance_60": {
+              "1X": 1.52,
+              "X2": 1.6
             },
             "totals_goals": [
               {
@@ -928,7 +503,7 @@
                 {
                   "line": 2.5,
                   "over": 3.35,
-                  "under": 1.27
+                  "under": 1.28
                 }
               ],
               "2": [
@@ -940,7 +515,7 @@
                 {
                   "line": 1.5,
                   "over": 1.55,
-                  "under": 2.25
+                  "under": 2.3
                 },
                 {
                   "line": 2,
@@ -971,8 +546,8 @@
                 },
                 {
                   "line": 2,
-                  "over": 1.98,
-                  "under": 1.72
+                  "over": 1.97,
+                  "under": 1.73
                 },
                 {
                   "line": 2.5,
@@ -989,116 +564,257 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 2.75,
-                "away": 1.42
+                "home": 3,
+                "away": 1.35
               },
               {
                 "handicap": -2,
-                "home": 3.7,
-                "away": 1.25
-              },
-              {
-                "handicap": -2.5,
                 "home": 4.1,
                 "away": 1.22
               },
               {
+                "handicap": -2.5,
+                "home": 4.5,
+                "away": 1.18
+              },
+              {
                 "handicap": 0,
-                "home": 1.65,
-                "away": 2.15
+                "home": 1.8,
+                "away": 1.95
               }
             ]
           }
         },
         {
-          "home": "Салават Юлаев",
-          "away": "Барыс",
-          "start_utc": "2025-11-27T14:00:00Z",
+          "home": "ЦСКА",
+          "away": "Лада",
+          "start_utc": "2025-11-27T16:30:00Z",
           "markets": {
             "ml": {
-              "HOME": 1.58,
-              "AWAY": 2.4
+              "HOME": 1.2,
+              "AWAY": 4.5
             },
             "1x2_60": {
-              "P1": 1.95,
-              "X": 4.3,
-              "P2": 3.26
+              "P1": 1.35
             },
             "double_chance_60": {
-              "1X": 1.35,
-              "X2": 1.85
+              "1X": 1.1,
+              "X2": 3.2
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.25,
-                "under": 3.75
+                "over": 1.18,
+                "under": 4.6
               },
               {
                 "line": 4,
-                "over": 1.33,
-                "under": 3.15
+                "over": 1.23,
+                "under": 3.95
               },
               {
                 "line": 4.5,
+                "over": 1.45,
+                "under": 2.65
+              },
+              {
+                "line": 5,
                 "over": 1.6,
                 "under": 2.25
               },
               {
-                "line": 5,
-                "over": 1.85,
-                "under": 1.9
-              },
-              {
                 "line": 5.5,
-                "over": 2.2,
-                "under": 1.65
+                "over": 1.92,
+                "under": 1.88
               },
               {
                 "line": 6,
-                "over": 2.85,
-                "under": 1.4
+                "over": 2.35,
+                "under": 1.57
               },
               {
                 "line": 6.5,
-                "over": 3.35,
-                "under": 1.3
+                "over": 2.75,
+                "under": 1.43
               },
               {
                 "line": 7,
-                "over": 4.7,
-                "under": 1.17
+                "over": 3.7,
+                "under": 1.25
+              },
+              {
+                "line": 7.5,
+                "over": 4.15,
+                "under": 1.2
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.2,
-                  "under": 4.05
+                  "over": 1.17,
+                  "under": 4.5
                 },
                 {
                   "line": 1,
-                  "over": 1.37,
-                  "under": 2.85
+                  "over": 1.3,
+                  "under": 3.25
                 },
                 {
                   "line": 1.5,
-                  "over": 1.97,
-                  "under": 1.73
+                  "over": 1.83,
+                  "under": 1.87
                 },
                 {
                   "line": 2,
-                  "over": 3.1,
-                  "under": 1.32
+                  "over": 2.7,
+                  "under": 1.4
                 },
                 {
                   "line": 2.5,
-                  "over": 4,
-                  "under": 1.2
+                  "over": 3.55,
+                  "under": 1.25
                 }
               ],
               "2": [
+                {
+                  "line": 1,
+                  "over": 1.18,
+                  "under": 4.3
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.6,
+                  "under": 2.2
+                },
+                {
+                  "line": 2,
+                  "over": 2.13,
+                  "under": 1.64
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.85,
+                  "under": 1.37
+                },
+                {
+                  "line": 3,
+                  "over": 4.9,
+                  "under": 1.14
+                }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.17,
+                  "under": 4.4
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.58,
+                  "under": 2.25
+                },
+                {
+                  "line": 2,
+                  "over": 2.07,
+                  "under": 1.67
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.75,
+                  "under": 1.4
+                },
+                {
+                  "line": 3,
+                  "over": 4.7,
+                  "under": 1.15
+                }
+              ]
+            },
+            "spreads": [
+              {
+                "handicap": -2.5,
+                "home": 2.4,
+                "away": 1.55
+              },
+              {
+                "handicap": -3,
+                "home": 3.7,
+                "away": 1.25
+              },
+              {
+                "handicap": -3.5,
+                "home": 4.4,
+                "away": 1.19
+              }
+            ]
+          }
+        },
+        {
+          "home": "Трактор",
+          "away": "ХК Сочи",
+          "start_utc": "2025-11-28T14:00:00Z",
+          "markets": {
+            "ml": {
+              "HOME": 1.2,
+              "AWAY": 4.5
+            },
+            "1x2_60": {
+              "P1": 1.35
+            },
+            "double_chance_60": {
+              "1X": 1.1,
+              "X2": 3.2
+            },
+            "totals_goals": [
+              {
+                "line": 3.5,
+                "over": 1.13,
+                "under": 1.2
+              },
+              {
+                "line": 4,
+                "over": 1.17,
+                "under": 4.8
+              },
+              {
+                "line": 4.5,
+                "over": 1.35,
+                "under": 3.1
+              },
+              {
+                "line": 5,
+                "over": 1.45,
+                "under": 2.65
+              },
+              {
+                "line": 5.5,
+                "over": 1.72,
+                "under": 2.13
+              },
+              {
+                "line": 6,
+                "over": 2,
+                "under": 1.75
+              },
+              {
+                "line": 6.5,
+                "over": 2.35,
+                "under": 1.55
+              },
+              {
+                "line": 7,
+                "over": 3.05,
+                "under": 1.35
+              },
+              {
+                "line": 7.5,
+                "over": 3.45,
+                "under": 1.3
+              }
+            ],
+            "period_totals": {
+              "1": [
                 {
                   "line": 0.5,
                   "over": 1.14,
@@ -1106,18 +822,18 @@
                 },
                 {
                   "line": 1,
-                  "over": 1.23,
-                  "under": 3.7
+                  "over": 1.25,
+                  "under": 3.65
                 },
                 {
                   "line": 1.5,
-                  "over": 1.72,
+                  "over": 1.73,
                   "under": 2
                 },
                 {
                   "line": 2,
-                  "over": 2.4,
-                  "under": 1.5
+                  "over": 2.45,
+                  "under": 1.48
                 },
                 {
                   "line": 2.5,
@@ -1125,54 +841,76 @@
                   "under": 1.3
                 }
               ],
-              "3": [
-                {
-                  "line": 0.5,
-                  "over": 1.13,
-                  "under": 5
-                },
+              "2": [
                 {
                   "line": 1,
-                  "over": 1.22,
-                  "under": 3.8
+                  "over": 1.14,
+                  "under": 4.8
                 },
                 {
                   "line": 1.5,
-                  "over": 1.7,
-                  "under": 2.02
+                  "over": 1.52,
+                  "under": 2.35
                 },
                 {
                   "line": 2,
-                  "over": 2.35,
-                  "under": 1.53
+                  "over": 1.95,
+                  "under": 1.75
                 },
                 {
                   "line": 2.5,
-                  "over": 3.1,
-                  "under": 1.32
+                  "over": 2.6,
+                  "under": 1.45
+                },
+                {
+                  "line": 3,
+                  "over": 4.2,
+                  "under": 1.18
+                }
+              ],
+              "3": [
+                {
+                  "line": 1.5,
+                  "over": 1.5,
+                  "under": 2.4
+                },
+                {
+                  "line": 2,
+                  "over": 1.9,
+                  "under": 1.8
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.5,
+                  "under": 1.45
+                },
+                {
+                  "line": 3,
+                  "over": 4.05,
+                  "under": 1.2
+                },
+                {
+                  "line": 3.5,
+                  "over": 4.8,
+                  "under": 1.14
                 }
               ]
             },
             "spreads": [
               {
-                "handicap": -1.5,
-                "home": 2.5,
-                "away": 1.5
-              },
-              {
-                "handicap": -2,
-                "home": 3.35,
-                "away": 1.3
-              },
-              {
                 "handicap": -2.5,
-                "home": 3.8,
-                "away": 1.25
+                "home": 2.3,
+                "away": 1.58
               },
               {
-                "handicap": 0,
-                "home": 1.5,
-                "away": 2.45
+                "handicap": -3,
+                "home": 3.5,
+                "away": 1.28
+              },
+              {
+                "handicap": -3.5,
+                "home": 4.2,
+                "away": 1.2
               }
             ]
           }
