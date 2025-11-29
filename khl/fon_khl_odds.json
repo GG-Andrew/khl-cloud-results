@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-11-29T03:02:58Z",
+  "generated_at_utc": "2025-11-29T07:03:07Z",
   "version": 1,
   "days": [
     {
@@ -339,12 +339,12 @@
               "AWAY": 4
             },
             "1x2_60": {
-              "P1": 1.45,
-              "X": 4.9
+              "P1": 1.47,
+              "X": 5
             },
             "double_chance_60": {
-              "1X": 1.12,
-              "X2": 2.75
+              "1X": 1.11,
+              "X2": 2.7
             },
             "totals_goals": [
               {
