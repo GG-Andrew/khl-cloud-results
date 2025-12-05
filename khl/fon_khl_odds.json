@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-12-05T03:03:02Z",
+  "generated_at_utc": "2025-12-05T07:03:34Z",
   "version": 1,
   "days": [
     {
@@ -13,120 +13,98 @@
           "start_utc": "2025-12-05T14:00:00Z",
           "markets": {
             "ml": {
-              "HOME": 2.4,
-              "AWAY": 1.57
+              "HOME": 2.45,
+              "AWAY": 1.55
             },
             "1x2_60": {
-              "P1": 3.3,
+              "P1": 3.4,
               "X": 4.3,
-              "P2": 1.95
+              "P2": 1.9
             },
             "double_chance_60": {
-              "1X": 1.85,
-              "X2": 1.33
+              "1X": 1.9,
+              "X2": 1.32
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.23,
-                "under": 3.9
+                "over": 1.2,
+                "under": 4.2
               },
               {
                 "line": 4,
-                "over": 1.3,
-                "under": 3.3
+                "over": 1.27,
+                "under": 3.55
               },
               {
                 "line": 4.5,
-                "over": 1.57,
-                "under": 2.35
+                "over": 1.52,
+                "under": 2.45
               },
               {
                 "line": 5,
-                "over": 1.78,
-                "under": 1.98
+                "over": 1.7,
+                "under": 2.08
               },
               {
                 "line": 5.5,
-                "over": 2.15,
-                "under": 1.7
+                "over": 2.05,
+                "under": 1.77
               },
               {
                 "line": 6,
-                "over": 2.7,
-                "under": 1.43
+                "over": 2.55,
+                "under": 1.48
               },
               {
                 "line": 6.5,
-                "over": 3.2,
-                "under": 1.33
+                "over": 3,
+                "under": 1.35
               },
               {
                 "line": 7,
-                "over": 4.5,
-                "under": 1.19
+                "over": 4.1,
+                "under": 1.2
               },
               {
                 "line": 7.5,
-                "over": 4.9,
-                "under": 1.16
+                "over": 4.6,
+                "under": 1.18
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.19,
-                  "under": 4.1
+                  "over": 1.18,
+                  "under": 4.3
                 },
                 {
                   "line": 1,
-                  "over": 1.35,
-                  "under": 2.95
+                  "over": 1.32,
+                  "under": 3.05
                 },
                 {
                   "line": 1.5,
-                  "over": 1.95,
-                  "under": 1.75
+                  "over": 1.9,
+                  "under": 1.8
                 },
                 {
                   "line": 2,
-                  "over": 3,
-                  "under": 1.33
+                  "over": 2.9,
+                  "under": 1.35
                 },
                 {
                   "line": 2.5,
-                  "over": 3.9,
-                  "under": 1.2
+                  "over": 3.75,
+                  "under": 1.23
                 }
               ],
               "2": [
                 {
                   "line": 1,
-                  "over": 1.22,
-                  "under": 3.8
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.7,
-                  "under": 2.02
-                },
-                {
-                  "line": 2,
-                  "over": 2.35,
-                  "under": 1.53
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.1,
-                  "under": 1.32
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
                   "over": 1.2,
-                  "under": 3.95
+                  "under": 4
                 },
                 {
                   "line": 1.5,
@@ -135,13 +113,35 @@
                 },
                 {
                   "line": 2,
-                  "over": 2.3,
-                  "under": 1.55
+                  "over": 2.25,
+                  "under": 1.57
                 },
                 {
                   "line": 2.5,
                   "over": 3,
-                  "under": 1.33
+                  "under": 1.35
+                }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.19,
+                  "under": 4.1
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.63,
+                  "under": 2.15
+                },
+                {
+                  "line": 2,
+                  "over": 2.2,
+                  "under": 1.6
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.9,
+                  "under": 1.35
                 }
               ]
             },
@@ -153,13 +153,13 @@
               },
               {
                 "handicap": -2,
-                "home": 3.2,
-                "away": 1.33
+                "home": 3.1,
+                "away": 1.35
               },
               {
                 "handicap": 0,
-                "home": 2.5,
-                "away": 1.5
+                "home": 2.55,
+                "away": 1.48
               }
             ]
           }
@@ -185,105 +185,83 @@
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.22,
-                "under": 4.05
+                "over": 1.2,
+                "under": 4.2
               },
               {
                 "line": 4,
-                "over": 1.3,
-                "under": 3.45
+                "over": 1.27,
+                "under": 3.6
               },
               {
                 "line": 4.5,
-                "over": 1.55,
-                "under": 2.4
+                "over": 1.5,
+                "under": 2.5
               },
               {
                 "line": 5,
-                "over": 1.75,
-                "under": 2
+                "over": 1.7,
+                "under": 2.1
               },
               {
                 "line": 5.5,
-                "over": 2.1,
-                "under": 1.75
+                "over": 2,
+                "under": 1.8
               },
               {
                 "line": 6,
-                "over": 2.6,
-                "under": 1.45
+                "over": 2.5,
+                "under": 1.5
               },
               {
                 "line": 6.5,
-                "over": 3.05,
-                "under": 1.35
+                "over": 2.95,
+                "under": 1.37
               },
               {
                 "line": 7,
-                "over": 4.3,
-                "under": 1.2
+                "over": 4.05,
+                "under": 1.22
               },
               {
                 "line": 7.5,
-                "over": 4.7,
-                "under": 1.17
+                "over": 4.5,
+                "under": 1.18
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.19,
-                  "under": 4.2
+                  "over": 1.18,
+                  "under": 4.3
                 },
                 {
                   "line": 1,
-                  "over": 1.33,
-                  "under": 3
+                  "over": 1.32,
+                  "under": 3.1
                 },
                 {
                   "line": 1.5,
-                  "over": 1.92,
-                  "under": 1.78
+                  "over": 1.9,
+                  "under": 1.8
                 },
                 {
                   "line": 2,
-                  "over": 2.95,
-                  "under": 1.35
+                  "over": 2.85,
+                  "under": 1.37
                 },
                 {
                   "line": 2.5,
-                  "over": 3.8,
-                  "under": 1.22
+                  "over": 3.7,
+                  "under": 1.23
                 }
               ],
               "2": [
                 {
                   "line": 1,
                   "over": 1.2,
-                  "under": 3.9
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.67,
-                  "under": 2.07
-                },
-                {
-                  "line": 2,
-                  "over": 2.3,
-                  "under": 1.55
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.05,
-                  "under": 1.33
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
-                  "over": 1.2,
-                  "under": 4.05
+                  "under": 4
                 },
                 {
                   "line": 1.5,
@@ -300,12 +278,39 @@
                   "over": 2.95,
                   "under": 1.35
                 }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.19,
+                  "under": 4.15
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.62,
+                  "under": 2.15
+                },
+                {
+                  "line": 2,
+                  "over": 2.18,
+                  "under": 1.61
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.9,
+                  "under": 1.35
+                },
+                {
+                  "line": 3,
+                  "over": 5,
+                  "under": 1.13
+                }
               ]
             },
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 2.7,
+                "home": 2.65,
                 "away": 1.45
               },
               {
@@ -315,7 +320,7 @@
               },
               {
                 "handicap": -2.5,
-                "home": 4.05,
+                "home": 4,
                 "away": 1.22
               },
               {
@@ -336,116 +341,94 @@
               "AWAY": 2.2
             },
             "1x2_60": {
-              "P1": 2.1,
-              "X": 4.3,
-              "P2": 2.9
+              "P1": 2.13,
+              "X": 4.4,
+              "P2": 2.95
             },
             "double_chance_60": {
               "1X": 1.4,
-              "X2": 1.75
+              "X2": 1.7
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.22,
-                "under": 4.05
+                "over": 1.2,
+                "under": 4.2
               },
               {
                 "line": 4,
-                "over": 1.3,
-                "under": 3.45
+                "over": 1.27,
+                "under": 3.6
               },
               {
                 "line": 4.5,
-                "over": 1.55,
-                "under": 2.4
+                "over": 1.5,
+                "under": 2.5
               },
               {
                 "line": 5,
-                "over": 1.75,
-                "under": 2
+                "over": 1.7,
+                "under": 2.1
               },
               {
                 "line": 5.5,
-                "over": 2.1,
-                "under": 1.75
+                "over": 2,
+                "under": 1.8
               },
               {
                 "line": 6,
-                "over": 2.6,
-                "under": 1.45
+                "over": 2.5,
+                "under": 1.5
               },
               {
                 "line": 6.5,
-                "over": 3.05,
-                "under": 1.35
+                "over": 2.95,
+                "under": 1.37
               },
               {
                 "line": 7,
-                "over": 4.3,
-                "under": 1.2
+                "over": 4.05,
+                "under": 1.22
               },
               {
                 "line": 7.5,
-                "over": 4.7,
-                "under": 1.17
+                "over": 4.5,
+                "under": 1.18
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.19,
-                  "under": 4.2
+                  "over": 1.18,
+                  "under": 4.3
                 },
                 {
                   "line": 1,
-                  "over": 1.33,
-                  "under": 3
+                  "over": 1.32,
+                  "under": 3.1
                 },
                 {
                   "line": 1.5,
-                  "over": 1.92,
-                  "under": 1.78
+                  "over": 1.9,
+                  "under": 1.8
                 },
                 {
                   "line": 2,
-                  "over": 2.95,
-                  "under": 1.35
+                  "over": 2.85,
+                  "under": 1.37
                 },
                 {
                   "line": 2.5,
-                  "over": 3.8,
-                  "under": 1.22
+                  "over": 3.7,
+                  "under": 1.23
                 }
               ],
               "2": [
                 {
                   "line": 1,
                   "over": 1.2,
-                  "under": 3.9
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.67,
-                  "under": 2.07
-                },
-                {
-                  "line": 2,
-                  "over": 2.3,
-                  "under": 1.55
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.05,
-                  "under": 1.33
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
-                  "over": 1.2,
-                  "under": 4.05
+                  "under": 4
                 },
                 {
                   "line": 1.5,
@@ -462,12 +445,39 @@
                   "over": 2.95,
                   "under": 1.35
                 }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.19,
+                  "under": 4.15
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.62,
+                  "under": 2.15
+                },
+                {
+                  "line": 2,
+                  "over": 2.18,
+                  "under": 1.61
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.9,
+                  "under": 1.35
+                },
+                {
+                  "line": 3,
+                  "over": 5,
+                  "under": 1.13
+                }
               ]
             },
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 2.7,
+                "home": 2.65,
                 "away": 1.45
               },
               {
@@ -477,7 +487,7 @@
               },
               {
                 "handicap": -2.5,
-                "home": 4.05,
+                "home": 4,
                 "away": 1.22
               },
               {
@@ -494,121 +504,94 @@
           "start_utc": "2025-12-05T14:30:00Z",
           "markets": {
             "ml": {
-              "HOME": 2.55,
-              "AWAY": 1.52
+              "HOME": 2.65,
+              "AWAY": 1.48
             },
             "1x2_60": {
-              "P1": 3.5,
+              "P1": 3.65,
               "X": 4.4,
-              "P2": 1.85
+              "P2": 1.8
             },
             "double_chance_60": {
-              "1X": 1.95,
-              "X2": 1.3
+              "1X": 2,
+              "X2": 1.28
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.18,
-                "under": 4.6
+                "over": 1.16,
+                "under": 4.8
               },
               {
                 "line": 4,
-                "over": 1.23,
-                "under": 4
+                "over": 1.2,
+                "under": 4.15
               },
               {
                 "line": 4.5,
-                "over": 1.45,
-                "under": 2.65
+                "over": 1.42,
+                "under": 2.75
               },
               {
                 "line": 5,
-                "over": 1.6,
-                "under": 2.25
+                "over": 1.55,
+                "under": 2.35
               },
               {
                 "line": 5.5,
-                "over": 1.9,
-                "under": 1.9
+                "over": 1.85,
+                "under": 1.95
               },
               {
                 "line": 6,
-                "over": 2.3,
-                "under": 1.58
+                "over": 2.25,
+                "under": 1.62
               },
               {
                 "line": 6.5,
-                "over": 2.75,
-                "under": 1.43
+                "over": 2.65,
+                "under": 1.45
               },
               {
                 "line": 7,
-                "over": 3.65,
-                "under": 1.25
+                "over": 3.5,
+                "under": 1.28
               },
               {
                 "line": 7.5,
-                "over": 4.1,
-                "under": 1.22
+                "over": 3.9,
+                "under": 1.23
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.17,
-                  "under": 4.5
+                  "over": 1.16,
+                  "under": 4.6
                 },
                 {
                   "line": 1,
-                  "over": 1.3,
-                  "under": 3.3
+                  "over": 1.28,
+                  "under": 3.35
                 },
                 {
                   "line": 1.5,
-                  "over": 1.83,
-                  "under": 1.87
+                  "over": 1.8,
+                  "under": 1.9
                 },
                 {
                   "line": 2,
-                  "over": 2.7,
-                  "under": 1.4
+                  "over": 2.65,
+                  "under": 1.43
                 },
                 {
                   "line": 2.5,
-                  "over": 3.5,
+                  "over": 3.45,
                   "under": 1.25
                 }
               ],
               "2": [
-                {
-                  "line": 1,
-                  "over": 1.18,
-                  "under": 4.3
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.6,
-                  "under": 2.2
-                },
-                {
-                  "line": 2,
-                  "over": 2.12,
-                  "under": 1.64
-                },
-                {
-                  "line": 2.5,
-                  "over": 2.8,
-                  "under": 1.38
-                },
-                {
-                  "line": 3,
-                  "over": 4.8,
-                  "under": 1.14
-                }
-              ],
-              "3": [
                 {
                   "line": 1,
                   "over": 1.17,
@@ -616,13 +599,13 @@
                 },
                 {
                   "line": 1.5,
-                  "over": 1.57,
+                  "over": 1.58,
                   "under": 2.25
                 },
                 {
                   "line": 2,
-                  "over": 2.05,
-                  "under": 1.68
+                  "over": 2.07,
+                  "under": 1.67
                 },
                 {
                   "line": 2.5,
@@ -631,7 +614,34 @@
                 },
                 {
                   "line": 3,
-                  "over": 4.6,
+                  "over": 4.7,
+                  "under": 1.15
+                }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.16,
+                  "under": 4.6
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.55,
+                  "under": 2.3
+                },
+                {
+                  "line": 2,
+                  "over": 2.02,
+                  "under": 1.7
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.7,
+                  "under": 1.4
+                },
+                {
+                  "line": 3,
+                  "over": 4.5,
                   "under": 1.16
                 }
               ]
@@ -639,18 +649,18 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 4.5,
-                "away": 1.18
+                "home": 4.7,
+                "away": 1.17
               },
               {
                 "handicap": -2,
-                "home": 3.05,
-                "away": 1.35
+                "home": 3,
+                "away": 1.37
               },
               {
                 "handicap": 0,
-                "home": 2.65,
-                "away": 1.45
+                "home": 2.8,
+                "away": 1.4
               }
             ]
           }
@@ -661,116 +671,94 @@
           "start_utc": "2025-12-05T15:00:00Z",
           "markets": {
             "ml": {
-              "HOME": 2.75,
-              "AWAY": 1.45
+              "HOME": 2.9,
+              "AWAY": 1.4
             },
             "1x2_60": {
-              "P1": 3.9,
+              "P1": 4.15,
               "X": 4.4,
-              "P2": 1.75
+              "P2": 1.7
             },
             "double_chance_60": {
-              "1X": 2.1,
-              "X2": 1.25
+              "1X": 2.15,
+              "X2": 1.23
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.2,
-                "under": 4.3
+                "over": 1.19,
+                "under": 4.5
               },
               {
                 "line": 4,
                 "over": 1.25,
-                "under": 3.65
+                "under": 3.8
               },
               {
                 "line": 4.5,
-                "over": 1.5,
-                "under": 2.5
+                "over": 1.47,
+                "under": 2.6
               },
               {
                 "line": 5,
-                "over": 1.67,
-                "under": 2.13
+                "over": 1.63,
+                "under": 2.2
               },
               {
                 "line": 5.5,
-                "over": 2,
-                "under": 1.8
+                "over": 1.95,
+                "under": 1.85
               },
               {
                 "line": 6,
-                "over": 2.5,
-                "under": 1.5
+                "over": 2.4,
+                "under": 1.55
               },
               {
                 "line": 6.5,
-                "over": 2.95,
-                "under": 1.38
+                "over": 2.8,
+                "under": 1.4
               },
               {
                 "line": 7,
-                "over": 4,
-                "under": 1.23
+                "over": 3.8,
+                "under": 1.25
               },
               {
                 "line": 7.5,
-                "over": 4.4,
-                "under": 1.19
+                "over": 4.2,
+                "under": 1.2
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.18,
-                  "under": 4.3
+                  "over": 1.17,
+                  "under": 4.4
                 },
                 {
                   "line": 1,
                   "over": 1.3,
-                  "under": 3.15
+                  "under": 3.2
                 },
                 {
                   "line": 1.5,
-                  "over": 1.87,
-                  "under": 1.83
+                  "over": 1.85,
+                  "under": 1.85
                 },
                 {
                   "line": 2,
-                  "over": 2.85,
-                  "under": 1.37
+                  "over": 2.75,
+                  "under": 1.4
                 },
                 {
                   "line": 2.5,
-                  "over": 3.7,
+                  "over": 3.6,
                   "under": 1.25
                 }
               ],
               "2": [
-                {
-                  "line": 1,
-                  "over": 1.2,
-                  "under": 4.05
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.65,
-                  "under": 2.1
-                },
-                {
-                  "line": 2,
-                  "over": 2.2,
-                  "under": 1.6
-                },
-                {
-                  "line": 2.5,
-                  "over": 2.95,
-                  "under": 1.35
-                }
-              ],
-              "3": [
                 {
                   "line": 1,
                   "over": 1.19,
@@ -778,8 +766,8 @@
                 },
                 {
                   "line": 1.5,
-                  "over": 1.6,
-                  "under": 2.2
+                  "over": 1.62,
+                  "under": 2.15
                 },
                 {
                   "line": 2,
@@ -789,25 +777,52 @@
                 {
                   "line": 2.5,
                   "over": 2.85,
-                  "under": 1.37
+                  "under": 1.35
                 },
                 {
                   "line": 3,
-                  "over": 4.9,
+                  "over": 5,
                   "under": 1.14
+                }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.18,
+                  "under": 4.3
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.6,
+                  "under": 2.2
+                },
+                {
+                  "line": 2,
+                  "over": 2.1,
+                  "under": 1.65
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.8,
+                  "under": 1.38
+                },
+                {
+                  "line": 3,
+                  "over": 4.8,
+                  "under": 1.15
                 }
               ]
             },
             "spreads": [
               {
                 "handicap": -2,
-                "home": 2.8,
-                "away": 1.4
+                "home": 2.55,
+                "away": 1.48
               },
               {
                 "handicap": 0,
-                "home": 2.95,
-                "away": 1.37
+                "home": 3.15,
+                "away": 1.35
               }
             ]
           }
@@ -818,11 +833,11 @@
           "start_utc": "2025-12-05T14:00:00Z",
           "markets": {
             "1x2_60": {
-              "P1": 3,
-              "P2": 1.45
+              "P1": 2.95,
+              "P2": 1.47
             },
             "double_chance_60": {
-              "1X": 2.55,
+              "1X": 2.5,
               "X2": 1.35
             },
             "period_totals": {
@@ -830,45 +845,45 @@
                 {
                   "line": 1.5,
                   "over": 1.35,
-                  "under": 1.5
+                  "under": 1.52
                 },
                 {
                   "line": 2.5,
-                  "over": 1.22,
+                  "over": 1.2,
                   "under": 1.3
                 },
                 {
                   "line": 9.5,
-                  "over": 1.28,
-                  "under": 3.3
+                  "over": 1.26,
+                  "under": 3.45
                 },
                 {
                   "line": 10.5,
-                  "over": 1.5,
-                  "under": 2.4
+                  "over": 1.45,
+                  "under": 2.55
                 },
                 {
                   "line": 11.5,
-                  "over": 1.8,
-                  "under": 1.9
+                  "over": 1.72,
+                  "under": 2
                 },
                 {
                   "line": 12.5,
-                  "over": 2.23,
-                  "under": 1.58
+                  "over": 2.13,
+                  "under": 1.63
                 },
                 {
                   "line": 13.5,
-                  "over": 2.85,
-                  "under": 1.37
+                  "over": 2.7,
+                  "under": 1.4
                 }
               ]
             },
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3.55,
-                "away": 1.25
+                "home": 3.45,
+                "away": 1.26
               },
               {
                 "handicap": -5.5,
@@ -890,17 +905,17 @@
           "start_utc": "2025-12-05T16:30:00Z",
           "markets": {
             "ml": {
-              "HOME": 2.6,
-              "AWAY": 1.5
+              "HOME": 2.7,
+              "AWAY": 1.47
             },
             "1x2_60": {
-              "P1": 3.6,
+              "P1": 3.75,
               "X": 4.5,
-              "P2": 1.8
+              "P2": 1.77
             },
             "double_chance_60": {
-              "1X": 2,
-              "X2": 1.3
+              "1X": 2.05,
+              "X2": 1.27
             },
             "totals_goals": [
               {
@@ -931,7 +946,7 @@
               {
                 "line": 6,
                 "over": 2.07,
-                "under": 1.7
+                "under": 1.72
               },
               {
                 "line": 6.5,
@@ -945,7 +960,7 @@
               },
               {
                 "line": 7.5,
-                "over": 3.6,
+                "over": 3.55,
                 "under": 1.27
               }
             ],
@@ -990,8 +1005,8 @@
                 },
                 {
                   "line": 2,
-                  "over": 1.98,
-                  "under": 1.72
+                  "over": 1.97,
+                  "under": 1.73
                 },
                 {
                   "line": 2.5,
@@ -1000,20 +1015,20 @@
                 },
                 {
                   "line": 3,
-                  "over": 4.4,
-                  "under": 1.17
+                  "over": 4.3,
+                  "under": 1.18
                 }
               ],
               "3": [
                 {
                   "line": 1,
                   "over": 1.14,
-                  "under": 4.8
+                  "under": 4.9
                 },
                 {
                   "line": 1.5,
-                  "over": 1.52,
-                  "under": 2.35
+                  "over": 1.5,
+                  "under": 2.4
                 },
                 {
                   "line": 2,
@@ -1035,18 +1050,18 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 4.6,
-                "away": 1.17
+                "home": 4.9,
+                "away": 1.16
               },
               {
                 "handicap": -2,
-                "home": 2.9,
+                "home": 2.8,
                 "away": 1.4
               },
               {
                 "handicap": 0,
-                "home": 2.75,
-                "away": 1.42
+                "home": 2.85,
+                "away": 1.4
               }
             ]
           }
@@ -1072,104 +1087,82 @@
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.2,
-                "under": 4.3
+                "over": 1.18,
+                "under": 4.6
               },
               {
                 "line": 4,
-                "over": 1.25,
-                "under": 3.65
+                "over": 1.23,
+                "under": 3.9
               },
               {
                 "line": 4.5,
-                "over": 1.5,
-                "under": 2.5
+                "over": 1.45,
+                "under": 2.65
               },
               {
                 "line": 5,
-                "over": 1.68,
-                "under": 2.13
+                "over": 1.6,
+                "under": 2.25
               },
               {
                 "line": 5.5,
-                "over": 2,
-                "under": 1.8
+                "over": 1.92,
+                "under": 1.88
               },
               {
                 "line": 6,
-                "over": 2.5,
-                "under": 1.5
+                "over": 2.35,
+                "under": 1.55
               },
               {
                 "line": 6.5,
-                "over": 2.95,
-                "under": 1.38
+                "over": 2.75,
+                "under": 1.42
               },
               {
                 "line": 7,
-                "over": 4,
-                "under": 1.22
+                "over": 3.7,
+                "under": 1.25
               },
               {
                 "line": 7.5,
-                "over": 4.5,
-                "under": 1.19
+                "over": 4.15,
+                "under": 1.2
               }
             ],
             "period_totals": {
               "1": [
                 {
                   "line": 0.5,
-                  "over": 1.18,
-                  "under": 4.3
+                  "over": 1.17,
+                  "under": 4.5
                 },
                 {
                   "line": 1,
-                  "over": 1.32,
-                  "under": 3.1
+                  "over": 1.3,
+                  "under": 3.25
                 },
                 {
                   "line": 1.5,
-                  "over": 1.88,
-                  "under": 1.82
+                  "over": 1.85,
+                  "under": 1.85
                 },
                 {
                   "line": 2,
-                  "over": 2.85,
-                  "under": 1.37
+                  "over": 2.7,
+                  "under": 1.4
                 },
                 {
                   "line": 2.5,
-                  "over": 3.7,
-                  "under": 1.23
+                  "over": 3.55,
+                  "under": 1.25
                 }
               ],
               "2": [
                 {
                   "line": 1,
-                  "over": 1.2,
-                  "under": 4.05
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.65,
-                  "under": 2.1
-                },
-                {
-                  "line": 2,
-                  "over": 2.2,
-                  "under": 1.6
-                },
-                {
-                  "line": 2.5,
-                  "over": 2.95,
-                  "under": 1.35
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
-                  "over": 1.19,
+                  "over": 1.18,
                   "under": 4.2
                 },
                 {
@@ -1180,7 +1173,7 @@
                 {
                   "line": 2,
                   "over": 2.15,
-                  "under": 1.62
+                  "under": 1.63
                 },
                 {
                   "line": 2.5,
@@ -1189,21 +1182,48 @@
                 },
                 {
                   "line": 3,
-                  "over": 5,
+                  "over": 4.9,
                   "under": 1.14
+                }
+              ],
+              "3": [
+                {
+                  "line": 1,
+                  "over": 1.17,
+                  "under": 4.4
+                },
+                {
+                  "line": 1.5,
+                  "over": 1.58,
+                  "under": 2.25
+                },
+                {
+                  "line": 2,
+                  "over": 2.08,
+                  "under": 1.65
+                },
+                {
+                  "line": 2.5,
+                  "over": 2.75,
+                  "under": 1.4
+                },
+                {
+                  "line": 3,
+                  "over": 4.7,
+                  "under": 1.15
                 }
               ]
             },
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3.4,
+                "home": 3.45,
                 "away": 1.3
               },
               {
                 "handicap": -2,
                 "home": 4.8,
-                "away": 1.16
+                "away": 1.17
               },
               {
                 "handicap": 0,
