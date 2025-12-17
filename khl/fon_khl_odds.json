@@ -1,6 +1,6 @@
 {
   "bookmaker": "fonbet",
-  "generated_at_utc": "2025-12-17T07:02:53Z",
+  "generated_at_utc": "2025-12-17T11:07:24Z",
   "version": 1,
   "days": [
     {
@@ -13,254 +13,63 @@
           "start_utc": "2025-12-17T09:15:00Z",
           "markets": {
             "ml": {
-              "HOME": 1.85,
-              "AWAY": 1.95
+              "HOME": 1.25,
+              "AWAY": 3.95
             },
             "1x2_60": {
-              "P1": 2.4,
-              "X": 4.05,
-              "P2": 2.55
+              "P1": 1.5,
+              "X": 3.7
             },
             "double_chance_60": {
-              "1X": 1.5,
-              "X2": 1.57
+              "X2": 2.4
             },
             "totals_goals": [
               {
                 "line": 3.5,
-                "over": 1.25,
-                "under": 3.75
-              },
-              {
-                "line": 4,
-                "over": 1.33,
-                "under": 3.15
+                "over": 1.19,
+                "under": 4.7
               },
               {
                 "line": 4.5,
-                "over": 1.6,
-                "under": 2.25
-              },
-              {
-                "line": 5,
-                "over": 1.85,
-                "under": 1.9
+                "over": 2.2,
+                "under": 1.67
               },
               {
                 "line": 5.5,
-                "over": 2.2,
-                "under": 1.65
-              },
-              {
-                "line": 6,
-                "over": 2.85,
-                "under": 1.4
-              },
-              {
-                "line": 6.5,
-                "over": 3.35,
-                "under": 1.3
-              },
-              {
-                "line": 7,
                 "over": 4.7,
-                "under": 1.17
+                "under": 1.19
               }
             ],
             "sog_match": [
               {
-                "line": 64.5,
-                "over": 1.73,
-                "under": 1.99
-              },
-              {
-                "line": 65.5,
-                "over": 1.87,
-                "under": 1.83
-              },
-              {
-                "line": 66.5,
-                "over": 2.03,
-                "under": 1.7
+                "line": 71.5,
+                "over": 1.65,
+                "under": 2.1
               }
             ],
             "sog_1x2": {
-              "P1": 2.4,
-              "P2": 1.55
+              "P1": 2.37,
+              "P2": 1.77
+            },
+            "sog_double_chance": {
+              "1X": 1.94,
+              "X2": 1.51
             },
             "faceoffs_match": [
               {
                 "line": 57.5,
-                "over": 1.7,
-                "under": 2.03
+                "over": 1.32,
+                "under": 3.1
               },
               {
                 "line": 58.5,
-                "over": 1.85,
-                "under": 1.85
+                "over": 1.56,
+                "under": 2.27
               },
               {
                 "line": 59.5,
-                "over": 2.03,
-                "under": 1.7
-              }
-            ],
-            "faceoffs_spreads": [
-              {
-                "line": 4.5,
-                "odd_plus": 1.85,
-                "odd_minus": 1.85
-              }
-            ],
-            "faceoffs_spread_main": {
-              "line": 4.5,
-              "odd_plus": 1.85,
-              "odd_minus": 1.85
-            },
-            "period_totals": {
-              "1": [
-                {
-                  "line": 0.5,
-                  "over": 1.2,
-                  "under": 4.05
-                },
-                {
-                  "line": 1,
-                  "over": 1.35,
-                  "under": 2.9
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.97,
-                  "under": 1.73
-                },
-                {
-                  "line": 2,
-                  "over": 3.1,
-                  "under": 1.32
-                },
-                {
-                  "line": 2.5,
-                  "over": 4,
-                  "under": 1.2
-                }
-              ],
-              "2": [
-                {
-                  "line": 0.5,
-                  "over": 1.14,
-                  "under": 4.9
-                },
-                {
-                  "line": 1,
-                  "over": 1.23,
-                  "under": 3.7
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.7,
-                  "under": 2.02
-                },
-                {
-                  "line": 2,
-                  "over": 2.4,
-                  "under": 1.5
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.15,
-                  "under": 1.3
-                }
-              ],
-              "3": [
-                {
-                  "line": 1,
-                  "over": 1.22,
-                  "under": 3.8
-                },
-                {
-                  "line": 1.5,
-                  "over": 1.7,
-                  "under": 2.02
-                },
-                {
-                  "line": 2,
-                  "over": 2.35,
-                  "under": 1.53
-                },
-                {
-                  "line": 2.5,
-                  "over": 3.1,
-                  "under": 1.32
-                }
-              ]
-            },
-            "spreads": [
-              {
-                "handicap": -1.5,
-                "home": 3.2,
-                "away": 1.32
-              },
-              {
-                "handicap": -2,
-                "home": 4.6,
-                "away": 1.18
-              },
-              {
-                "handicap": 0,
-                "home": 1.83,
-                "away": 1.91
-              }
-            ]
-          }
-        },
-        {
-          "home": "Хозяева",
-          "away": "Гости",
-          "start_utc": "2025-12-17T09:15:00Z",
-          "markets": {
-            "1x2_60": {
-              "P1": 3.45,
-              "P2": 1.57
-            },
-            "double_chance_60": {
-              "1X": 2.25,
-              "X2": 1.25
-            },
-            "period_totals": {
-              "1": [
-                {
-                  "line": 1.5,
-                  "over": 1.12,
-                  "under": 1.13
-                },
-                {
-                  "line": 2.5,
-                  "over": 1.43,
-                  "under": 2.65
-                },
-                {
-                  "line": 3.5,
-                  "over": 2.05,
-                  "under": 1.68
-                },
-                {
-                  "line": 4.5,
-                  "over": 3.2,
-                  "under": 1.3
-                }
-              ]
-            },
-            "spreads": [
-              {
-                "handicap": -1.5,
-                "home": 4.9,
-                "away": 1.14
-              },
-              {
-                "handicap": -4.5,
-                "home": 4.9,
-                "away": 1.14
+                "over": 1.87,
+                "under": 1.83
               }
             ]
           }
@@ -334,6 +143,55 @@
                 "under": 1.3
               }
             ],
+            "sog_match": [
+              {
+                "line": 63.5,
+                "over": 1.75,
+                "under": 1.95
+              },
+              {
+                "line": 64.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 65.5,
+                "over": 2.1,
+                "under": 1.65
+              }
+            ],
+            "sog_1x2": {
+              "P2": 1.05
+            },
+            "faceoffs_match": [
+              {
+                "line": 55.5,
+                "over": 1.67,
+                "under": 2.07
+              },
+              {
+                "line": 56.5,
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 57.5,
+                "over": 2.07,
+                "under": 1.67
+              }
+            ],
+            "faceoffs_spreads": [
+              {
+                "line": 1.5,
+                "odd_plus": 1.85,
+                "odd_minus": 1.85
+              }
+            ],
+            "faceoffs_spread_main": {
+              "line": 1.5,
+              "odd_plus": 1.85,
+              "odd_minus": 1.85
+            },
             "period_totals": {
               "1": [
                 {
@@ -437,17 +295,17 @@
           "start_utc": "2025-12-18T14:00:00Z",
           "markets": {
             "ml": {
-              "HOME": 1.9,
-              "AWAY": 1.9
+              "HOME": 1.93,
+              "AWAY": 1.87
             },
             "1x2_60": {
-              "P1": 2.45,
-              "X": 4.15,
-              "P2": 2.45
+              "P1": 2.5,
+              "X": 4.1,
+              "P2": 2.4
             },
             "double_chance_60": {
-              "1X": 1.55,
-              "X2": 1.55
+              "1X": 1.57,
+              "X2": 1.53
             },
             "totals_goals": [
               {
@@ -468,7 +326,7 @@
               {
                 "line": 5,
                 "over": 1.68,
-                "under": 2.13
+                "under": 2.12
               },
               {
                 "line": 5.5,
@@ -577,23 +435,23 @@
             "spreads": [
               {
                 "handicap": -1.5,
-                "home": 3.15,
-                "away": 1.33
+                "home": 3.25,
+                "away": 1.32
               },
               {
                 "handicap": -2,
-                "home": 4.4,
+                "home": 4.5,
                 "away": 1.19
               },
               {
                 "handicap": -2.5,
-                "home": 4.8,
+                "home": 4.9,
                 "away": 1.16
               },
               {
                 "handicap": 0,
-                "home": 1.88,
-                "away": 1.88
+                "home": 1.9,
+                "away": 1.85
               }
             ]
           }
