@@ -1,4 +1,4 @@
-﻿✅ Выгрузка завершена: 2025-12-18 12:40:34
+﻿✅ Выгрузка завершена: 2025-12-18 15:04:39
 
 Файлы:
  - uids_khl_season.csv → https://results.beton-khl.ru/khl/uids_khl_season.csv
@@ -15,7 +15,7 @@
  - khl_team_passports_tour.txt → https://results.beton-khl.ru/khl/khl_team_passports_tour.txt
 
 Архив:
- - khl_everyday_18-12-2025-12-40.zip → https://results.beton-khl.ru/khl/archives/khl_everyday_18-12-2025-12-40.zip
+ - khl_everyday_18-12-2025-15-04.zip → https://results.beton-khl.ru/khl/archives/khl_everyday_18-12-2025-15-04.zip
  - khl_const_core_03-11-2025-22-32.zip → https://results.beton-khl.ru/khl/archives/khl_const_core_03-11-2025-22-32.zip
 
 Зеркала (GitHub Raw):
@@ -31,5 +31,5 @@
  - khl_probabilities_tour.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_probabilities_tour.xlsx
  - khl_probabilities_human_tour.xlsx → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_probabilities_human_tour.xlsx
  - khl_team_passports_tour.txt → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/khl_team_passports_tour.txt
- - khl_everyday_18-12-2025-12-40.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_18-12-2025-12-40.zip
+ - khl_everyday_18-12-2025-15-04.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_everyday_18-12-2025-15-04.zip
  - khl_const_core_03-11-2025-22-32.zip → https://raw.githubusercontent.com/GG-Andrew/khl-cloud-results/main/khl/archives/khl_const_core_03-11-2025-22-32.zip
